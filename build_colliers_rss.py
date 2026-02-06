@@ -1,7 +1,7 @@
 import argparse
 import os
 import re
-from datetime import timezone
+from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -12,6 +12,8 @@ from feedgen.feed import FeedGenerator
 DATE_RE = re.compile(
     r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{4}\b"
 )
+
+EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 SKIP_TEXT = {
     "read more",
@@ -31,46 +33,58 @@ def normalize_url(base: str, href: str) -> str:
     return u.rstrip("/")
 
 
-def guess_date_near(anchor) -> str | None:
-    # Usually the date appears right before the title link on the listing page.
-    prev = anchor.find_previous(string=DATE_RE)
-    if not prev:
+def find_card_with_date(a, max_up: int = 10):
+    """
+    Walk up the DOM to find a container that includes a date.
+    This avoids 'find_previous' mistakes and makes dates reliable.
+    """
+    node = a
+    for _ in range(max_up):
+        if not getattr(node, "get_text", None):
+            break
+        txt = node.get_text(" ", strip=True)
+        if DATE_RE.search(txt):
+            return node
+        node = getattr(node, "parent", None)
+        if node is None:
+            break
+    return a.parent if getattr(a, "parent", None) else a
+
+
+def extract_date(node) -> datetime | None:
+    if not node or not getattr(node, "get_text", None):
         return None
-    m = DATE_RE.search(str(prev))
-    return m.group(0) if m else None
+    txt = node.get_text(" ", strip=True)
+    m = DATE_RE.search(txt)
+    if not m:
+        return None
+    try:
+        dt = dateparser.parse(m.group(0))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
 
 
-def guess_description(anchor, title: str, date_str: str | None) -> str:
-    # Try to find a short snippet in the same “card”.
-    card = anchor
-    for _ in range(6):
-        if not getattr(card, "parent", None):
-            break
-        card = card.parent
-        txt = card.get_text(" ", strip=True) if hasattr(card, "get_text") else ""
-        if title in txt and (date_str is None or date_str in txt):
-            # likely container
-            break
-
-    # Prefer <p> text inside the card
-    if hasattr(card, "find_all"):
-        for p in card.find_all("p"):
-            t = p.get_text(" ", strip=True)
-            if not t:
-                continue
-            low = t.lower()
-            if low in SKIP_TEXT:
-                continue
-            if t == title:
-                continue
-            if date_str and date_str in t:
-                continue
-            if len(t) > 400:
-                continue
-            if len(t) < 10:
-                continue
+def extract_description(card, title: str) -> str:
+    if not card or not getattr(card, "find_all", None):
+        return ""
+    for p in card.find_all("p"):
+        t = p.get_text(" ", strip=True)
+        if not t:
+            continue
+        low = t.lower().strip()
+        if low in SKIP_TEXT:
+            continue
+        if t.strip() == title.strip():
+            continue
+        # ignore pure date lines
+        if DATE_RE.fullmatch(t.strip()):
+            continue
+        # keep it reasonable
+        if 10 <= len(t) <= 400:
             return t
-
     return ""
 
 
@@ -84,8 +98,8 @@ def get_listing_items(listing_url: str, limit: int) -> list[dict]:
 
     soup = BeautifulSoup(r.text, "html.parser")
 
-    items: list[dict] = []
-    seen_urls: set[str] = set()
+    # Use dict so we can "upgrade" an item later if we find a better date/desc.
+    by_url: dict[str, dict] = {}
 
     for a in soup.find_all("a", href=True):
         href = a.get("href") or ""
@@ -103,40 +117,40 @@ def get_listing_items(listing_url: str, limit: int) -> list[dict]:
         if title.strip().lower() in SKIP_TEXT:
             continue
 
-        if url in seen_urls:
-            continue
+        card = find_card_with_date(a)
+        published = extract_date(card)
+        desc = extract_description(card, title)
 
-        date_str = guess_date_near(a)
-        published = None
-        if date_str:
-            try:
-                published = dateparser.parse(date_str)
-                if published.tzinfo is None:
-                    published = published.replace(tzinfo=timezone.utc)
-            except Exception:
-                published = None
-
-        desc = guess_description(a, title, date_str)
-
-        items.append(
-            {
+        existing = by_url.get(url)
+        if not existing:
+            by_url[url] = {
                 "url": url,
                 "title": title,
                 "description": desc,
                 "published": published,
             }
-        )
-        seen_urls.add(url)
+        else:
+            # Keep the best/most complete fields we discover
+            if existing.get("published") is None and published is not None:
+                existing["published"] = published
+            elif existing.get("published") is not None and published is not None:
+                # If somehow different, keep the newer
+                if published > existing["published"]:
+                    existing["published"] = published
 
-        if len(items) >= limit:
-            break
+            if (not existing.get("description")) and desc:
+                existing["description"] = desc
 
-    # Newest first (if dates exist)
-    items.sort(
-        key=lambda x: x["published"] or dateparser.parse("1970-01-01T00:00:00Z"),
-        reverse=True,
-    )
-    return items
+            # Prefer a longer/more "real" title if we ever got a weak one
+            if len(title) > len(existing.get("title", "")):
+                existing["title"] = title
+
+    items = list(by_url.values())
+
+    # Force newest-first in the XML
+    items.sort(key=lambda x: x.get("published") or EPOCH, reverse=True)
+
+    return items[:limit]
 
 
 def build_rss(listing_url: str, items: list[dict], out_file: str) -> None:
