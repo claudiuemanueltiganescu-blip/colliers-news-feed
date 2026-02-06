@@ -28,9 +28,14 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      - name: Build RSS
+       - name: Build RSS
         run: |
           python build_colliers_rss.py --out docs/colliers-news.xml --limit 50
+          echo "=== docs folder ==="
+          ls -lah docs
+          echo "=== first lines of feed ==="
+          head -n 20 docs/colliers-news.xml
+
 
       - name: Commit & push if changed
         run: |
