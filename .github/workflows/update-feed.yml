@@ -3,7 +3,6 @@ name: Update RSS feed
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 06:20 UTC
     - cron: "20 6 * * *"
 
 permissions:
@@ -20,7 +19,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          cache: pip
 
       - name: Install dependencies
         run: |
@@ -28,14 +27,13 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-       - name: Build RSS
+      - name: Build RSS
         run: |
           python build_colliers_rss.py --out docs/colliers-news.xml --limit 50
           echo "=== docs folder ==="
           ls -lah docs
           echo "=== first lines of feed ==="
           head -n 20 docs/colliers-news.xml
-
 
       - name: Commit & push if changed
         run: |
