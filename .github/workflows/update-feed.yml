@@ -9,7 +9,6 @@ permissions:
   contents: write
 
 env:
-  # This page contains actual news entries + "Read More" links in the HTML.
   LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
   FEED_OUT: "docs/colliers-news.xml"
   FEED_LIMIT: "50"
@@ -31,7 +30,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install --with-deps chromium
 
       - name: Build RSS
         run: |
