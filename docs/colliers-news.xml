@@ -1,54 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Colliers News (unofficial)</title>
+    <title>Colliers News (unofficial) — Top News section only</title>
     <link>https://www.colliers.com/en/countries/united-states/commercial-real-estate-news</link>
-    <description>Unofficial RSS feed generated from Colliers listing pages.</description>
+    <description>Unofficial RSS feed generated from the top News section (excludes Podcasts, Media mentions, etc).</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 12:49:29 +0000</lastBuildDate>
-    <item>
-      <title>Colliers named on TIME Worlds Best Companies list for second consecutive year</title>
-      <link>https://www.colliers.com/en/news/colliers-named-on-time-worlds-best-companies-list-for-second-consecutive-year</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-named-on-time-worlds-best-companies-list-for-second-consecutive-year</guid>
-    </item>
-    <item>
-      <title>AI Giants Taking Over San Francisco Office Spaces</title>
-      <link>https://www.colliers.com/en/news/san-francisco-bay-area/ai-giants-taking-over-san-francisco-office-spaces</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/san-francisco-bay-area/ai-giants-taking-over-san-francisco-office-spaces</guid>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Utah's Big Box Industrial Market: Demand on the Rise</title>
-      <link>https://www.colliers.com/en/news/salt-lake-city/utah-big-box-industrial-market-demand-on-the-rise</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/salt-lake-city/utah-big-box-industrial-market-demand-on-the-rise</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stockman Flats Industrial Park</title>
-      <link>https://www.colliers.com/en/news/salt-lake-city/stockman-flats</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/salt-lake-city/stockman-flats</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manhattan’s Highest Year of Leasing Demand Since 2019</title>
-      <link>https://www.colliers.com/en/news/new-york/12_2025_q42025_press-release</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/new-york/12_2025_q42025_press-release</guid>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Colliers Represents Cincinnati Non-Profit in New Facility Purchase</title>
-      <link>https://www.colliers.com/en/news/cincinnati/center-for-respite-care</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/cincinnati/center-for-respite-care</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Experts expect strong Twin Cities industrial market in 2026</title>
-      <link>https://www.colliers.com/en/news/minneapolis-st-paul/experts-expect-strong-twin-cities-industrial-market-in-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/experts-expect-strong-twin-cities-industrial-market-in-2026</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 13:03:38 +0000</lastBuildDate>
     <item>
       <title>New Tenant Representation Team Joins Colliers Chicago</title>
       <link>https://www.colliers.com/en/news/chicago/new-tenant-representation-team-joins-colliers-chicago</link>
