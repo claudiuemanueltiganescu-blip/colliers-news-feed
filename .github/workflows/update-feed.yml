@@ -35,14 +35,19 @@ jobs:
           echo "=== first lines of feed ==="
           head -n 20 docs/colliers-news.xml
 
-      - name: Commit & push if changed
+            - name: Commit & push if changed
         run: |
-          if git diff --quiet; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage the generated feed (this makes new files count as changes)
+          git add docs/colliers-news.xml
+
+          # Exit if nothing staged
+          if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/colliers-news.xml
+
           git commit -m "Update RSS feed"
           git push
