@@ -8,6 +8,12 @@ on:
 permissions:
   contents: write
 
+env:
+  # This page contains actual news entries + "Read More" links in the HTML.
+  LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
+  FEED_OUT: "docs/colliers-news.xml"
+  FEED_LIMIT: "50"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,27 +35,24 @@ jobs:
 
       - name: Build RSS
         run: |
-          python build_colliers_rss.py --out docs/colliers-news.xml --limit 50
+          python build_colliers_rss.py --listing "${LISTING_URL}" --out "${FEED_OUT}" --limit "${FEED_LIMIT}"
           echo "=== docs folder ==="
           ls -lah docs
           echo "=== first lines of feed ==="
-          head -n 20 docs/colliers-news.xml
+          head -n 40 "${FEED_OUT}"
 
       - name: Commit & push if changed
         run: |
-          # Fail early if the file wasn't created
-          if [ ! -f "docs/colliers-news.xml" ]; then
-            echo "ERROR: docs/colliers-news.xml was not created."
+          if [ ! -f "${FEED_OUT}" ]; then
+            echo "ERROR: ${FEED_OUT} was not created."
             exit 1
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stage the generated file FIRST (this catches new/untracked files)
-          git add docs/colliers-news.xml
+          git add "${FEED_OUT}"
 
-          # If nothing staged, exit
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
