@@ -12,9 +12,9 @@ from feedgen.feed import FeedGenerator
 DATE_RE = re.compile(
     r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},\s+\d{4}\b"
 )
-
 EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
 
+# The "real" title links on the page are not these:
 SKIP_TEXT = {
     "read more",
     "view more",
@@ -25,19 +25,66 @@ SKIP_TEXT = {
     "learn more",
 }
 
+# This is the section you want to keep; everything after Podcasts is ignored.
+START_MARKERS = [
+    "keep up with the latest commercial real estate news and trends",
+    "keep up with the latest",
+]
+STOP_HEADINGS = {
+    "podcasts",
+    "media mentions",
+    "press releases / announcements",
+    "knowledge leader",
+}
+
+ARTICLE_RE = re.compile(
+    r"^https://www\.colliers\.com/en/news/[^/?#]+/[^/?#]+/?$",
+    re.IGNORECASE,
+)
+
 
 def normalize_url(base: str, href: str) -> str:
     u = urljoin(base, href)
     p = urlparse(u)
-    u = p._replace(query="", fragment="").geturl()
-    return u.rstrip("/")
+    return p._replace(query="", fragment="").geturl().rstrip("/")
+
+
+def find_heading_containing(soup: BeautifulSoup, needles_lower: list[str]):
+    for tag in soup.find_all(["h1", "h2", "h3", "h4", "h5"]):
+        txt = tag.get_text(" ", strip=True).lower()
+        if any(n in txt for n in needles_lower):
+            return tag
+    return None
+
+
+def find_next_stop_heading(start_tag, stop_set_lower: set[str]):
+    if not start_tag:
+        return None
+    for el in start_tag.next_elements:
+        if getattr(el, "name", None) in ["h1", "h2", "h3", "h4", "h5"]:
+            t = el.get_text(" ", strip=True).lower()
+            if t in stop_set_lower:
+                return el
+    return None
+
+
+def iter_elements_between(start_tag, stop_tag):
+    """
+    Yield elements after start_tag until stop_tag is reached.
+    If start_tag is None, start from the whole document.
+    """
+    if start_tag is None:
+        # fall back: yield everything
+        return []
+    out = []
+    for el in start_tag.next_elements:
+        if el is stop_tag:
+            break
+        out.append(el)
+    return out
 
 
 def find_card_with_date(a, max_up: int = 10):
-    """
-    Walk up the DOM to find a container that includes a date.
-    This avoids 'find_previous' mistakes and makes dates reliable.
-    """
     node = a
     for _ in range(max_up):
         if not getattr(node, "get_text", None):
@@ -51,10 +98,10 @@ def find_card_with_date(a, max_up: int = 10):
     return a.parent if getattr(a, "parent", None) else a
 
 
-def extract_date(node) -> datetime | None:
-    if not node or not getattr(node, "get_text", None):
+def extract_date(card) -> datetime | None:
+    if not card or not getattr(card, "get_text", None):
         return None
-    txt = node.get_text(" ", strip=True)
+    txt = card.get_text(" ", strip=True)
     m = DATE_RE.search(txt)
     if not m:
         return None
@@ -79,45 +126,56 @@ def extract_description(card, title: str) -> str:
             continue
         if t.strip() == title.strip():
             continue
-        # ignore pure date lines
         if DATE_RE.fullmatch(t.strip()):
             continue
-        # keep it reasonable
         if 10 <= len(t) <= 400:
             return t
     return ""
 
 
-def get_listing_items(listing_url: str, limit: int) -> list[dict]:
+def get_items_from_news_section(listing_url: str, limit: int) -> list[dict]:
     headers = {
         "User-Agent": "Mozilla/5.0 (Unofficial RSS generator)",
         "Accept-Language": "en-US,en;q=0.9",
     }
     r = requests.get(listing_url, headers=headers, timeout=30)
     r.raise_for_status()
-
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # Use dict so we can "upgrade" an item later if we find a better date/desc.
+    start = find_heading_containing(soup, START_MARKERS)
+    stop = find_next_stop_heading(start, {s.lower() for s in STOP_HEADINGS})
+
+    # If we couldn't find the start marker, fall back to "everything before Podcasts"
+    if start is None:
+        stop2 = find_heading_containing(soup, ["podcasts"])
+        elements = []
+        for el in soup.descendants:
+            if el is stop2:
+                break
+            elements.append(el)
+    else:
+        elements = iter_elements_between(start, stop)
+
     by_url: dict[str, dict] = {}
 
-    for a in soup.find_all("a", href=True):
-        href = a.get("href") or ""
+    for el in elements:
+        if getattr(el, "name", None) != "a":
+            continue
+        href = el.get("href")
+        if not href:
+            continue
+
         url = normalize_url(listing_url, href)
-
-        # Only Colliers news article URLs
-        if "/en/news/" not in url:
-            continue
-        if url.endswith("/en/news"):
+        if not ARTICLE_RE.match(url):
             continue
 
-        title = a.get_text(" ", strip=True)
+        title = el.get_text(" ", strip=True)
         if not title:
             continue
         if title.strip().lower() in SKIP_TEXT:
             continue
 
-        card = find_card_with_date(a)
+        card = find_card_with_date(el)
         published = extract_date(card)
         desc = extract_description(card, title)
 
@@ -130,37 +188,27 @@ def get_listing_items(listing_url: str, limit: int) -> list[dict]:
                 "published": published,
             }
         else:
-            # Keep the best/most complete fields we discover
+            # upgrade fields if we discover better info
             if existing.get("published") is None and published is not None:
                 existing["published"] = published
-            elif existing.get("published") is not None and published is not None:
-                # If somehow different, keep the newer
-                if published > existing["published"]:
-                    existing["published"] = published
-
             if (not existing.get("description")) and desc:
                 existing["description"] = desc
-
-            # Prefer a longer/more "real" title if we ever got a weak one
             if len(title) > len(existing.get("title", "")):
                 existing["title"] = title
 
     items = list(by_url.values())
-
-    # Force newest-first in the XML
     items.sort(key=lambda x: x.get("published") or EPOCH, reverse=True)
-
     return items[:limit]
 
 
 def build_rss(listing_url: str, items: list[dict], out_file: str) -> None:
     fg = FeedGenerator()
-    fg.title("Colliers News (unofficial)")
+    fg.title("Colliers News (unofficial) — Top News section only")
     fg.link(href=listing_url, rel="alternate")
-    fg.description("Unofficial RSS feed generated from Colliers listing pages.")
+    fg.description("Unofficial RSS feed generated from the top News section (excludes Podcasts, Media mentions, etc).")
     fg.language("en")
 
-    for it in items:
+    for it in items:  # already newest-first
         fe = fg.add_entry()
         fe.id(it["url"])
         fe.link(href=it["url"])
@@ -181,7 +229,7 @@ def main():
     ap.add_argument("--out", default="docs/colliers-news.xml")
     args = ap.parse_args()
 
-    items = get_listing_items(args.listing, args.limit)
+    items = get_items_from_news_section(args.listing, args.limit)
     build_rss(args.listing, items, args.out)
     print(f"Wrote {args.out} ({len(items)} items)")
 
