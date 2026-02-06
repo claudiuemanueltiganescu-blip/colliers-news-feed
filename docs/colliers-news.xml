@@ -2,11 +2,76 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Colliers News (unofficial)</title>
-    <link>https://www.colliers.com/en/news</link>
-    <description>Unofficial RSS feed generated from https://www.colliers.com/en/news</description>
+    <link>https://www.colliers.com/en/countries/united-states/commercial-real-estate-news</link>
+    <description>Unofficial RSS feed generated from Colliers listing pages.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 12:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 12:36:33 +0000</lastBuildDate>
+    <item>
+      <title>Colliers named on TIME Worlds Best Companies list for second consecutive year</title>
+      <link>https://www.colliers.com/en/news/colliers-named-on-time-worlds-best-companies-list-for-second-consecutive-year</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-named-on-time-worlds-best-companies-list-for-second-consecutive-year</guid>
+    </item>
+    <item>
+      <title>AI Giants Taking Over San Francisco Office Spaces</title>
+      <link>https://www.colliers.com/en/news/san-francisco-bay-area/ai-giants-taking-over-san-francisco-office-spaces</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/san-francisco-bay-area/ai-giants-taking-over-san-francisco-office-spaces</guid>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Utah's Big Box Industrial Market: Demand on the Rise</title>
+      <link>https://www.colliers.com/en/news/salt-lake-city/utah-big-box-industrial-market-demand-on-the-rise</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/salt-lake-city/utah-big-box-industrial-market-demand-on-the-rise</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stockman Flats Industrial Park</title>
+      <link>https://www.colliers.com/en/news/salt-lake-city/stockman-flats</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/salt-lake-city/stockman-flats</guid>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manhattan’s Highest Year of Leasing Demand Since 2019</title>
+      <link>https://www.colliers.com/en/news/new-york/12_2025_q42025_press-release</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-york/12_2025_q42025_press-release</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colliers Represents Cincinnati Non-Profit in New Facility Purchase</title>
+      <link>https://www.colliers.com/en/news/cincinnati/center-for-respite-care</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/cincinnati/center-for-respite-care</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Experts expect strong Twin Cities industrial market in 2026</title>
+      <link>https://www.colliers.com/en/news/minneapolis-st-paul/experts-expect-strong-twin-cities-industrial-market-in-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/experts-expect-strong-twin-cities-industrial-market-in-2026</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New Tenant Representation Team Joins Colliers Chicago</title>
+      <link>https://www.colliers.com/en/news/chicago/new-tenant-representation-team-joins-colliers-chicago</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/chicago/new-tenant-representation-team-joins-colliers-chicago</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colliers announces VP joining Raleigh’s life sciences practice group</title>
+      <link>https://www.colliers.com/en/news/raleigh/shara-nejad-joins-colliers</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/raleigh/shara-nejad-joins-colliers</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NH Office &amp; Industrial 2025 Market Update</title>
+      <link>https://www.colliers.com/en/news/new-hampshire/nh-commercial-real-estate-market-review-2025</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/nh-commercial-real-estate-market-review-2025</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Colliers brokers 55,000 SF office lease to Hisense at 5995 Windward</title>
+      <link>https://www.colliers.com/en/news/atlanta/colliers-brokers-55000-sf-office-lease-5995-windward</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/atlanta/colliers-brokers-55000-sf-office-lease-5995-windward</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
