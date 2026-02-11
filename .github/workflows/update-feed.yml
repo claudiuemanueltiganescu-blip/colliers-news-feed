@@ -3,15 +3,21 @@ name: Update RSS feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 6 * * *" # daily 06:20 UTC
+    - cron: "17 * * * *" # every hour at :17 UTC
 
 permissions:
   contents: write
 
 env:
-  LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
+  # Colliers listing that contains the top News section you wanted
+  COLLIERS_LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
+
+  # Northmarq "load more" base (avoids the robot-check listing page)
+  NORTHMARQ_LOAD_MORE_BASE: "https://www.northmarq.com/northmarq_load_more/transactions/transactions"
+  NORTHMARQ_PAGES: "3"
+
   FEED_OUT: "docs/colliers-news.xml"
-  FEED_LIMIT: "50"
+  TOTAL_LIMIT: "50"
 
 jobs:
   build:
@@ -33,11 +39,14 @@ jobs:
 
       - name: Build RSS
         run: |
-          python build_colliers_rss.py --listing "${LISTING_URL}" --out "${FEED_OUT}" --limit "${FEED_LIMIT}"
+          python build_colliers_rss.py \
+            --colliers "${COLLIERS_LISTING_URL}" \
+            --northmarq_base "${NORTHMARQ_LOAD_MORE_BASE}" \
+            --northmarq_pages "${NORTHMARQ_PAGES}" \
+            --out "${FEED_OUT}" \
+            --total_limit "${TOTAL_LIMIT}"
           echo "=== docs folder ==="
           ls -lah docs
-          echo "=== first lines of feed ==="
-          head -n 40 "${FEED_OUT}"
 
       - name: Commit & push if changed
         run: |
