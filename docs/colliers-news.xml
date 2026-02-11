@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 17:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 19:20:23 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Colliers Idaho Welcomes Nate Mack to Canyon County Brokerage Team</title>
       <link>https://www.colliers.com/en/news/idaho/pr-nate-mack</link>
@@ -28,6 +28,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-park-elmwood-industrial-portfolio</guid>
       <category>Colliers</category>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Minneapolis/St. Paul Business Journal's 40 Under 40: Brian Bruggeman</title>
+      <link>https://www.colliers.com/en/news/minneapolis-st-paul/business-journal-40-under-40</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/business-journal-40-under-40</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
