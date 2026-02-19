@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 19:10:10 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] Colliers sells Fowler Avenue Retail Center in Tampa</title>
-      <link>https://www.colliers.com/en/news/tampa-bay/colliers-sells-fowler-avenue-retail-center-in-tampa</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/colliers-sells-fowler-avenue-retail-center-in-tampa</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 19:50:35 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Colliers' Jeff Deitrick shifts focus to Occupier Services, joins Patrick Sentner and Cody Sharik</title>
       <link>https://www.colliers.com/en/news/pittsburgh/jeff-deitrick-joins-occupier-services-team</link>
@@ -33,6 +26,13 @@
       <title>[Colliers] Jack Cosca Receives Prestigious Colliers Everest Club Recognition</title>
       <link>https://www.colliers.com/en/news/idaho/pr-jack-cosca-everest-award</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/idaho/pr-jack-cosca-everest-award</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Announces Retirement of Principal and Shareholder David Choate</title>
+      <link>https://www.colliers.com/en/news/new-hampshire/colliers-announces-retirement-of-principal-and-shareholder-david-choate-after-35-year-career</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-announces-retirement-of-principal-and-shareholder-david-choate-after-35-year-career</guid>
       <category>Colliers</category>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
