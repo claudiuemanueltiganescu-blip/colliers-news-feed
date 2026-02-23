@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 16:02:54 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] Will Schenk named Director of Research | South Carolina at Colliers</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/will-schenk-named-director-of-research--south-carolina-at-colliers</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/will-schenk-named-director-of-research--south-carolina-at-colliers</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 17:18:47 +0000</lastBuildDate>
     <item>
       <title>[Colliers] The Phoenix Land Brief - 2/19/2026</title>
       <link>https://www.colliers.com/en/news/phoenix/the-phoenix-brief-feb-19</link>
@@ -35,6 +28,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/charleston-sc/colliers-announces-the-promotions-of--elizabeth-spalding-and-wilson-springs</guid>
       <category>Colliers</category>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] 2025 Everest Club Arizona Inductees</title>
+      <link>https://www.colliers.com/en/news/phoenix/2025-everest-club-arizona-inductees</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/2025-everest-club-arizona-inductees</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
