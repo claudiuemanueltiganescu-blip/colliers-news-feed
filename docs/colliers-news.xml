@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 17:19:07 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] The Phoenix Land Brief - 2/19/2026</title>
-      <link>https://www.colliers.com/en/news/phoenix/the-phoenix-brief-feb-19</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-brief-feb-19</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers Announces Retirement of Principal and Shareholder David Choate</title>
-      <link>https://www.colliers.com/en/news/new-hampshire/colliers-announces-retirement-of-principal-and-shareholder-david-choate-after-35-year-career</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-announces-retirement-of-principal-and-shareholder-david-choate-after-35-year-career</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 19:18:13 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Colliers announces the promotions of  Elizabeth Spalding and Wilson Springs</title>
       <link>https://www.colliers.com/en/news/charleston-sc/colliers-announces-the-promotions-of--elizabeth-spalding-and-wilson-springs</link>
@@ -30,11 +16,25 @@
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Colliers] The Registry’s Bay Area CRE Rising Stars Awards honors Colliers brokers</title>
+      <link>https://www.colliers.com/en/news/san-francisco/the-registrys-bay-area-cre-rising-stars-awards-honors-colliers-brokers</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/san-francisco/the-registrys-bay-area-cre-rising-stars-awards-honors-colliers-brokers</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Colliers] Gulf Coast maritime industrial terminal available for sale</title>
       <link>https://www.colliers.com/en/news/new-orleans/gulf-coast-maritime-industrial-terminal-available-for-sale</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-orleans/gulf-coast-maritime-industrial-terminal-available-for-sale</guid>
       <category>Colliers</category>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers promotes Drake Scott to Senior Brokerage Associate in Spartanburg</title>
+      <link>https://www.colliers.com/en/news/greenville/colliers-promotes-drake-scott-to-senior-brokerage-associate-in-spartanburg</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-promotes-drake-scott-to-senior-brokerage-associate-in-spartanburg</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
