@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 16:19:51 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] The Registry’s Bay Area CRE Rising Stars Awards honors Colliers brokers</title>
-      <link>https://www.colliers.com/en/news/san-francisco/the-registrys-bay-area-cre-rising-stars-awards-honors-colliers-brokers</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/san-francisco/the-registrys-bay-area-cre-rising-stars-awards-honors-colliers-brokers</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Feb 2026 18:14:15 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Gulf Coast maritime industrial terminal available for sale</title>
       <link>https://www.colliers.com/en/news/new-orleans/gulf-coast-maritime-industrial-terminal-available-for-sale</link>
@@ -33,6 +26,13 @@
       <title>[Colliers] Colliers facilitates sale of industrial flex property at 9191 Gulf Freeway in Houston</title>
       <link>https://www.colliers.com/en/news/houston/9191-gulf-fwy-2026-02-25</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/houston/9191-gulf-fwy-2026-02-25</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Represents The Learning Care Group in Second Charleston-Area Land Acquisition</title>
+      <link>https://www.colliers.com/en/news/charleston-sc/lcg-at-carnes-crossroads</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/charleston-sc/lcg-at-carnes-crossroads</guid>
       <category>Colliers</category>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
     </item>
