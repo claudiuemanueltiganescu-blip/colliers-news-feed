@@ -7,18 +7,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 20:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 21:48:57 +0000</lastBuildDate>
     <item>
-      <title>[Colliers] Route 1 Round Up | Q4 2025</title>
-      <link>https://www.colliers.com/en/news/new-hampshire/route-1-roundup-q42025</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/route-1-roundup-q42025</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Tiny’s Milk &amp; Cookies Opens New Heights Location on White Oak Drive</title>
-      <link>https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</guid>
+      <title>[Colliers] Colliers represents seller in sale of 34,430-square-foot office building in Sugar Land, Texas</title>
+      <link>https://www.colliers.com/en/news/houston/4660-sweetwater-boulevard-2026-03-04</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/houston/4660-sweetwater-boulevard-2026-03-04</guid>
       <category>Colliers</category>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -28,6 +21,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-4440-state-route-92-in-mo</guid>
       <category>Colliers</category>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Tiny’s Milk &amp; Cookies Opens New Heights Location on White Oak Drive</title>
+      <link>https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
