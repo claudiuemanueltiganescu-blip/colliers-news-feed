@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 13:36:53 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] Sale of 748,833-square-foot industrial facility in Platte City, MO</title>
-      <link>https://www.colliers.com/en/news/indianapolis/sale-of-4440-state-route-92-in-mo</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-4440-state-route-92-in-mo</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 15:05:52 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Colliers Idaho Continues Aggressive Growth with Addition of Karl Maier to Boise Brokerage Team</title>
       <link>https://www.colliers.com/en/news/idaho/pr-karl-maier</link>
@@ -26,6 +19,13 @@
       <title>[Colliers] Tiny’s Milk &amp; Cookies Opens New Heights Location on White Oak Drive</title>
       <link>https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/houston/tinys-milk-and-cookies-2026-03-04</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sunny Sky Products leases 42,136 square feet of new industrial space in east Tampa</title>
+      <link>https://www.colliers.com/en/news/tampa-bay/sunny-sky-products-leases-42-136-square-feet-of-new-industrial-space-in-east-tampa</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/sunny-sky-products-leases-42-136-square-feet-of-new-industrial-space-in-east-tampa</guid>
       <category>Colliers</category>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
     </item>
