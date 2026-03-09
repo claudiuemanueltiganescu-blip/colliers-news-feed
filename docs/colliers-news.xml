@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 21:46:52 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] Allen Gump named 2025 REDnews Texas Icon</title>
-      <link>https://www.colliers.com/en/news/dallas/allen-gump-named-2025-rednews-texas-icon</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/allen-gump-named-2025-rednews-texas-icon</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Mar 2026 22:47:34 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Route 1 Round Up | Q4 2025</title>
       <link>https://www.colliers.com/en/news/new-hampshire/route-1-roundup-q42025</link>
@@ -35,6 +28,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-expands-ie-industrial-platform-with-the-addition-of-brad-fox</guid>
       <category>Colliers</category>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates sale of 121-unit 55-plus LIHTC community in St. Paul</title>
+      <link>https://www.colliers.com/en/news/minneapolis-st-paul/colliers-facilitates-sale-of-121-unit-lihtc-community-in-st-paul</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/colliers-facilitates-sale-of-121-unit-lihtc-community-in-st-paul</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
