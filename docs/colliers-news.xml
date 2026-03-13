@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 07:12:41 +0000</lastBuildDate>
-    <item>
-      <title>[Colliers] Colliers Arranges $156M Sale of Huntington Tower in Downtown Detroit</title>
-      <link>https://www.colliers.com/en/news/detroit-ann-arbor/colliers-arranges-$156m-sale-of-huntington-tower-in-downtown-detroit</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/detroit-ann-arbor/colliers-arranges-$156m-sale-of-huntington-tower-in-downtown-detroit</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 07:55:35 +0000</lastBuildDate>
     <item>
       <title>[Colliers] Detroit's most expensive office-building sale ever just closed</title>
       <link>https://www.colliers.com/en/news/detroit-ann-arbor/detroits-most-expensive-office-building-sale-ever-just-closed</link>
@@ -26,6 +19,13 @@
       <title>[Colliers] Huntington Tower in Downtown Detroit Sells for $156M to Undisclosed Buyer</title>
       <link>https://www.colliers.com/en/news/detroit-ann-arbor/huntington-tower-in-downtown-detroit-sells-for-$156m-to-undisclosed-buyer</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/detroit-ann-arbor/huntington-tower-in-downtown-detroit-sells-for-$156m-to-undisclosed-buyer</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Arranges $156M Sale of Huntington Tower in Downtown Detroit</title>
+      <link>https://www.colliers.com/en/news/detroit-ann-arbor/colliers-arranges-$156m-sale-of-huntington-tower-in-downtown-detroit</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/detroit-ann-arbor/colliers-arranges-$156m-sale-of-huntington-tower-in-downtown-detroit</guid>
       <category>Colliers</category>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
     </item>
