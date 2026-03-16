@@ -32,6 +32,14 @@ def uniq_preserve(seq):
     return out
 
 
+def chrome_ua() -> str:
+    # A boring, normal desktop Chrome UA (avoid “bot” words)
+    return (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+    )
+
+
 # -----------------------
 # Colliers: top News section only (exclude Podcasts etc.)
 # -----------------------
@@ -145,7 +153,7 @@ def colliers_extract_description(card, title: str) -> str:
 
 def get_colliers_items(listing_url: str, limit: int) -> list[dict]:
     headers = {
-        "User-Agent": "Mozilla/5.0 (Unofficial RSS generator)",
+        "User-Agent": chrome_ua(),
         "Accept-Language": "en-US,en;q=0.9",
     }
     r = requests.get(listing_url, headers=headers, timeout=30)
@@ -156,7 +164,6 @@ def get_colliers_items(listing_url: str, limit: int) -> list[dict]:
     stop = colliers_find_next_stop_heading(start, {s.lower() for s in COLLIERS_STOP_HEADINGS})
 
     if start is None:
-        # Fallback: everything before Podcasts heading
         podcasts_heading = colliers_find_heading_containing(soup, ["podcasts"])
         elements = []
         for el in soup.descendants:
@@ -212,102 +219,180 @@ def get_colliers_items(listing_url: str, limit: int) -> list[dict]:
 
 
 # -----------------------
-# Northmarq: Transactions via "load more" endpoint (avoid robot-check page)
+# Northmarq: Transactions (handle 403 on GitHub Actions)
 # -----------------------
-NORTHMARQ_BASE_SITE = "https://www.northmarq.com"
-NORTHMARQ_YM_RE = re.compile(r"-(\d{4})-(\d{2})(?:$|/)")
+NORTHMARQ_BASE = "https://www.northmarq.com"
+NORTHMARQ_LISTING_URL = "https://www.northmarq.com/recent-closings-transactions"
+
+# many transaction slugs include -YYYY-MM or -YYYY-MM-DD near the end
+NORTHMARQ_DATE_IN_SLUG_RE = re.compile(r"-(\d{4})-(\d{2})(?:-(\d{2}))?(?:$|/)")
 
 
 def northmarq_published_from_url(url: str) -> datetime | None:
-    m = NORTHMARQ_YM_RE.search(url)
+    m = NORTHMARQ_DATE_IN_SLUG_RE.search(url)
     if not m:
         return None
-    year = int(m.group(1))
-    month = int(m.group(2))
-    # Use 1st of month (safe ordering vs day-specific sources)
-    return datetime(year, month, 1, tzinfo=UTC)
+    y = int(m.group(1))
+    mo = int(m.group(2))
+    day = int(m.group(3)) if m.group(3) else 1
+    try:
+        # noon UTC to avoid timezone edge cases
+        return datetime(y, mo, day, 12, 0, 0, tzinfo=UTC)
+    except ValueError:
+        return None
+
+
+def northmarq_session() -> requests.Session:
+    s = requests.Session()
+    s.headers.update(
+        {
+            "User-Agent": chrome_ua(),
+            "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": NORTHMARQ_LISTING_URL,
+            "Origin": NORTHMARQ_BASE,
+            "X-Requested-With": "XMLHttpRequest",
+        }
+    )
+    return s
+
+
+def northmarq_items_from_card_html(html: str, limit: int) -> list[dict]:
+    soup = BeautifulSoup(html, "html.parser")
+    by_url: dict[str, dict] = {}
+
+    for article in soup.find_all("article"):
+        a = article.find("a", href=True)
+        if not a:
+            continue
+
+        href = a["href"].strip()
+        if not href.startswith("/transactions/"):
+            continue
+
+        full_url = normalize_url(NORTHMARQ_BASE, href)
+
+        title = (a.get("aria-label") or "").strip()
+        if not title:
+            h3 = article.find("h3")
+            title = h3.get_text(" ", strip=True) if h3 else a.get_text(" ", strip=True)
+        title = title.strip() or full_url
+
+        deal_types = [x.get_text(" ", strip=True) for x in article.select(".field--name-field-deal-type .field__item")]
+        deal_types = [x for x in deal_types if x]
+        deal_types = ", ".join(uniq_preserve(deal_types))
+
+        locality = article.select_one(".field--name-field-address .locality")
+        admin = article.select_one(".field--name-field-address .administrative-area")
+        location = ""
+        if locality and admin:
+            location = f"{locality.get_text(strip=True)}, {admin.get_text(strip=True)}"
+        elif locality:
+            location = locality.get_text(strip=True)
+
+        price_el = article.select_one(".field--name-field-price")
+        price = price_el.get_text(" ", strip=True) if price_el else ""
+
+        desc_parts = [p for p in [deal_types, location, price] if p]
+        desc = " — ".join(desc_parts)
+
+        published = northmarq_published_from_url(full_url)
+
+        if full_url not in by_url:
+            by_url[full_url] = {
+                "url": full_url,
+                "title": title,
+                "description": desc,
+                "published": published,
+                "source": "Northmarq",
+            }
+
+        if len(by_url) >= limit:
+            break
+
+    items = list(by_url.values())
+    items.sort(key=lambda x: x.get("published") or EPOCH, reverse=True)
+    return items[:limit]
+
+
+def northmarq_decode_load_more_response(resp: requests.Response) -> str:
+    """
+    The load_more endpoint typically returns JSON commands with HTML in a `data` field.
+    Decoding JSON turns \\u003C into '<', so BeautifulSoup can parse it.
+    """
+    try:
+        payload = resp.json()
+    except Exception:
+        return resp.text
+
+    html_parts: list[str] = []
+    if isinstance(payload, list):
+        for obj in payload:
+            if isinstance(obj, dict):
+                data = obj.get("data")
+                if isinstance(data, str) and data:
+                    html_parts.append(data)
+    elif isinstance(payload, dict):
+        data = payload.get("data")
+        if isinstance(data, str) and data:
+            html_parts.append(data)
+
+    return "\n".join(html_parts) if html_parts else resp.text
 
 
 def get_northmarq_items(load_more_base: str, pages: int, limit: int) -> list[dict]:
-    """
-    load_more_base example:
-      https://www.northmarq.com/northmarq_load_more/transactions/transactions
-    """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Unofficial RSS generator)",
-        "Accept-Language": "en-US,en;q=0.9",
-    }
+    s = northmarq_session()
 
-    session = requests.Session()
+    # Warm-up request to pick up any cookies / routing
+    try:
+        s.get(NORTHMARQ_LISTING_URL, timeout=30)
+    except Exception:
+        pass
+
     by_url: dict[str, dict] = {}
 
     for page in range(1, pages + 1):
         url = f"{load_more_base}/{page}"
-        resp = session.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
+        resp = s.get(url, timeout=30)
 
-        soup = BeautifulSoup(resp.text, "html.parser")
+        # If blocked on the ajax endpoint, fall back to scraping the listing page (first page only)
+        if resp.status_code == 403:
+            print("[Northmarq] 403 on load_more endpoint from this runner. Falling back to listing page.")
+            try:
+                r2 = s.get(NORTHMARQ_LISTING_URL, timeout=30)
+                if r2.status_code == 403:
+                    print("[Northmarq] 403 on listing page too. Skipping Northmarq for this run.")
+                    return []
+                r2.raise_for_status()
+                return northmarq_items_from_card_html(r2.text, limit=limit)
+            except Exception as e:
+                print(f"[Northmarq] Fallback failed: {e}. Skipping Northmarq for this run.")
+                return []
 
-        # Each card is an <article> for a transaction node
-        for article in soup.find_all("article"):
-            a = article.find("a", href=True)
-            if not a:
-                continue
+        # Other non-OK
+        try:
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"[Northmarq] HTTP error page={page}: {e}")
+            continue
 
-            href = a["href"]
-            full_url = normalize_url(NORTHMARQ_BASE_SITE, href)
+        html = northmarq_decode_load_more_response(resp)
+        items = northmarq_items_from_card_html(html, limit=limit)
 
-            if "/transactions/" not in full_url:
-                continue
-
-            title = (a.get("aria-label") or "").strip()
-            if not title:
-                # fallback to any h3 text
-                h3 = article.find("h3")
-                title = h3.get_text(" ", strip=True) if h3 else full_url
-
-            # Build a compact description from the card fields (no detail-page fetch)
-            deal_types = [x.get_text(" ", strip=True) for x in article.select(".field--name-field-deal-type .field__item")]
-            deal_types = [x for x in deal_types if x]
-            deal_types = ", ".join(uniq_preserve(deal_types))
-
-            locality = article.select_one(".field--name-field-address .locality")
-            admin = article.select_one(".field--name-field-address .administrative-area")
-            location = ""
-            if locality and admin:
-                location = f"{locality.get_text(strip=True)}, {admin.get_text(strip=True)}"
-            elif locality:
-                location = locality.get_text(strip=True)
-
-            price_el = article.select_one(".field--name-field-price")
-            price = price_el.get_text(" ", strip=True) if price_el else ""
-
-            parts = [p for p in [deal_types, location, price] if p]
-            desc = " — ".join(parts)
-
-            published = northmarq_published_from_url(full_url)
-
-            if full_url not in by_url:
-                by_url[full_url] = {
-                    "url": full_url,
-                    "title": title,
-                    "description": desc,
-                    "published": published,
-                    "source": "Northmarq",
-                }
-
+        for it in items:
+            if it["url"] not in by_url:
+                by_url[it["url"]] = it
             if len(by_url) >= limit:
                 break
 
         if len(by_url) >= limit:
             break
 
-        # Be polite
-        time.sleep(0.7)
+        time.sleep(0.8)
 
-    items = list(by_url.values())
-    items.sort(key=lambda x: x.get("published") or EPOCH, reverse=True)
-    return items[:limit]
+    out = list(by_url.values())
+    out.sort(key=lambda x: x.get("published") or EPOCH, reverse=True)
+    return out[:limit]
 
 
 # -----------------------
@@ -322,7 +407,7 @@ def merge_items(lists: list[list[dict]], total_limit: int) -> list[dict]:
             if not existing:
                 by_url[url] = it
             else:
-                # Keep the one with a date if the other doesn't
+                # prefer the one that has a published date
                 if existing.get("published") is None and it.get("published") is not None:
                     by_url[url] = it
 
@@ -342,7 +427,6 @@ def write_rss(items: list[dict], out_file: str, home_link: str) -> None:
         fe = fg.add_entry()
         fe.id(it["url"])
         fe.link(href=it["url"])
-        # Prefix title so your reader clearly shows the source
         fe.title(f"[{it['source']}] {it['title']}")
         if it.get("published"):
             fe.published(it["published"])
@@ -358,10 +442,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--colliers", required=True, help="Colliers listing page URL")
     ap.add_argument("--northmarq_base", required=True, help="Northmarq load-more base URL (no trailing /page)")
-    ap.add_argument("--northmarq_pages", type=int, default=3)
-    ap.add_argument("--colliers_limit", type=int, default=50)
-    ap.add_argument("--northmarq_limit", type=int, default=50)
-    ap.add_argument("--total_limit", type=int, default=50)
+    ap.add_argument("--northmarq_pages", type=int, default=2)
+    ap.add_argument("--colliers_limit", type=int, default=60)
+    ap.add_argument("--northmarq_limit", type=int, default=60)
+    ap.add_argument("--total_limit", type=int, default=120)
     ap.add_argument("--out", default="docs/colliers-news.xml")
     args = ap.parse_args()
 
@@ -369,8 +453,6 @@ def main():
     northmarq_items = get_northmarq_items(args.northmarq_base, pages=args.northmarq_pages, limit=args.northmarq_limit)
 
     combined = merge_items([colliers_items, northmarq_items], total_limit=args.total_limit)
-
-    # Use Colliers listing as the "home" link for the feed
     write_rss(combined, out_file=args.out, home_link=args.colliers)
 
     print(
