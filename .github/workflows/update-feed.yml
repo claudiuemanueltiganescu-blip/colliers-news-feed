@@ -1,33 +1,26 @@
 name: Update RSS feed
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "17 * * * *" # every hour at :17 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 env:
-  # Colliers listing that contains the top News section you wanted
-  COLLIERS_LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
-
-  # Northmarq "load more" base (avoids the robot-check listing page)
-  NORTHMARQ_LOAD_MORE_BASE: "https://www.northmarq.com/northmarq_load_more/transactions/transactions"
-  NORTHMARQ_PAGES: "3"
-
-  FEED_OUT: "docs/colliers-news.xml"
-  TOTAL_LIMIT: "50"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
           cache: pip
@@ -37,33 +30,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Build RSS
+      # 1) Build Colliers feed (temporary file, NOT published)
+      - name: Build Colliers RSS (temp)
+        env:
+          LISTING_URL: "https://www.colliers.com/en/countries/united-states/commercial-real-estate-news"
+          FEED_LIMIT: "80"
         run: |
-          python build_colliers_rss.py \
-            --colliers "${COLLIERS_LISTING_URL}" \
-            --northmarq_base "${NORTHMARQ_LOAD_MORE_BASE}" \
-            --northmarq_pages "${NORTHMARQ_PAGES}" \
-            --out "${FEED_OUT}" \
-            --total_limit "${TOTAL_LIMIT}"
-          echo "=== docs folder ==="
-          ls -lah docs
+          python build_colliers_rss.py --listing "${LISTING_URL}" --out "_colliers.xml" --limit "${FEED_LIMIT}"
 
-      - name: Commit & push if changed
+      # 2) Build Northmarq feed (temporary file, NOT published)
+      - name: Build Northmarq RSS (temp)
+        env:
+          NORTHMARQ_LIMIT: "80"
+          NORTHMARQ_PAGES: "3"
         run: |
-          if [ ! -f "${FEED_OUT}" ]; then
-            echo "ERROR: ${FEED_OUT} was not created."
-            exit 1
+          python build_northmarq_rss.py --out "_northmarq.xml" --limit "${NORTHMARQ_LIMIT}" --pages "${NORTHMARQ_PAGES}"
+
+      # 3) Merge into the PUBLISHED feed in /docs
+      - name: Merge feeds (published)
+        env:
+          TOTAL_LIMIT: "160"
+        run: |
+          python merge_rss.py \
+            --in1 "_colliers.xml" --label1 "Colliers" \
+            --in2 "_northmarq.xml" --label2 "Northmarq" \
+            --out "docs/colliers-news.xml" \
+            --limit "${TOTAL_LIMIT}"
+
+      - name: Clean up temp files
+        run: |
+          rm -f _colliers.xml _northmarq.xml
+
+      - name: Commit and push if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add docs/colliers-news.xml
+            git commit -m "Update RSS feed"
+            git push
+          else
+            echo "No changes to commit"
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add "${FEED_OUT}"
-
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-
-          git commit -m "Update RSS feed"
-          git push
