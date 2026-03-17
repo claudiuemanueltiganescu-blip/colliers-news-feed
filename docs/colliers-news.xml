@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:51:51 +0000</lastBuildDate>
-    <item>
-      <title>[Northmarq] 3838 California</title>
-      <link>https://www.northmarq.com/transactions/3838-california-debt-debt-equity-2025-10</link>
-      <description>Debt, Debt &amp; Equity — San Francisco, CA — $20,900,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/3838-california-debt-debt-equity-2025-10</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 15:16:50 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Buffalo-Area Industrial Facility</title>
       <link>https://www.northmarq.com/transactions/buffalo-area-industrial-facility-sale-2025-10</link>
@@ -649,11 +641,12 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Phoenix Land Brief - 3/12/2026</title>
-      <link>https://www.colliers.com/en/news/phoenix/the-phoenix-brief-mar-12-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-brief-mar-12-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Preston Ridge</title>
+      <link>https://www.northmarq.com/transactions/preston-ridge-sale-2026-01</link>
+      <description>Sale — Hickory, NC — $71,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/preston-ridge-sale-2026-01</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers facilitates $156 million sale of Huntington Tower in downtown Detroit</title>
@@ -675,6 +668,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-secures-26k-sf-office-lease-in-hot-plano-submarket</guid>
       <category>Colliers</category>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Omaha Economic Index® developed by Colliers | Nebraska</title>
+      <link>https://www.colliers.com/en/news/omaha/omaha-economic-index</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/omaha/omaha-economic-index</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
