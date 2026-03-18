@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 17:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 19:17:31 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] La Mesa Mixed-Use Development</title>
       <link>https://www.northmarq.com/transactions/la-mesa-mixed-use-development-debt-debt-equity-2025-10</link>
@@ -649,13 +649,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers facilitates $12.85 million sale of 297-space Nautica Parking Garage in Charlestown, MA</title>
-      <link>https://www.colliers.com/en/news/boston/colliers-facilitates-sale-of-nautica-parking-garage-in-charlestown-ma</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/boston/colliers-facilitates-sale-of-nautica-parking-garage-in-charlestown-ma</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers secures 26.3K SF office lease in hot Plano submarket</title>
       <link>https://www.colliers.com/en/news/dallas/colliers-secures-26k-sf-office-lease-in-hot-plano-submarket</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-secures-26k-sf-office-lease-in-hot-plano-submarket</guid>
@@ -673,6 +666,13 @@
       <title>[Colliers] AI Takes Over DFW Industrial</title>
       <link>https://www.colliers.com/en/news/dallas/ai-takes-over-dfw-industrial</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/ai-takes-over-dfw-industrial</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Aon Center Secures ±50k RSF Lease with Bank of Hope, a Major Tenant Relocation into Downtown Los Angeles</title>
+      <link>https://www.colliers.com/en/news/los-angeles/aon-center-secures-50k-rsf-lease-with-bank-of-hope</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/aon-center-secures-50k-rsf-lease-with-bank-of-hope</guid>
       <category>Colliers</category>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
