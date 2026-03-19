@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 13:42:33 +0000</lastBuildDate>
-    <item>
-      <title>[Northmarq] La Mesa Mixed-Use Development</title>
-      <link>https://www.northmarq.com/transactions/la-mesa-mixed-use-development-debt-debt-equity-2025-10</link>
-      <description>Debt, Debt &amp; Equity — La Mesa, CA — $18,470,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/la-mesa-mixed-use-development-debt-debt-equity-2025-10</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Mar 2026 15:06:21 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Vescom Manufacturing</title>
       <link>https://www.northmarq.com/transactions/vescom-manufacturing-permanent-loan-fixed-debt-equity-2025-10</link>
@@ -645,6 +637,14 @@
       <link>https://www.northmarq.com/transactions/vero-beach-kamp-debt-permanent-loan-fixed-debt-equity-2026-01</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Sebastian, FL — $6,300,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/vero-beach-kamp-debt-permanent-loan-fixed-debt-equity-2026-01</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] IMT Belasera at Fulton</title>
+      <link>https://www.northmarq.com/transactions/imt-belasera-fulton-debt-debt-equity-2026-01</link>
+      <description>Debt, Debt &amp; Equity — Sherman Oaks, CA — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/imt-belasera-fulton-debt-debt-equity-2026-01</guid>
       <category>Northmarq</category>
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
