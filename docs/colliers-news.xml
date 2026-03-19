@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 17:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:03:46 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Sutter Square</title>
       <link>https://www.northmarq.com/transactions/sutter-square-debt-bridge-loan-permanent-loan-floating-debt-equity-2025-10</link>
@@ -649,13 +649,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Omaha Economic Index® developed by Colliers | Nebraska</title>
-      <link>https://www.colliers.com/en/news/omaha/omaha-economic-index</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/omaha/omaha-economic-index</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] AI Takes Over DFW Industrial</title>
       <link>https://www.colliers.com/en/news/dallas/ai-takes-over-dfw-industrial</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/ai-takes-over-dfw-industrial</guid>
@@ -668,6 +661,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/aon-center-secures-50k-rsf-lease-with-bank-of-hope</guid>
       <category>Colliers</category>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Brokers +733k SF Tech Park Sale in Goleta, CA</title>
+      <link>https://www.colliers.com/en/news/los-angeles/recapitalization-of-coastal-tech-park-portfolio-reinforces-investor-confidence</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/recapitalization-of-coastal-tech-park-portfolio-reinforces-investor-confidence</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
