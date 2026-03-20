@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 13:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 15:02:36 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Sutter Square</title>
       <link>https://www.northmarq.com/transactions/sutter-square-debt-bridge-loan-permanent-loan-floating-debt-equity-2025-10</link>
@@ -668,6 +668,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/recapitalization-of-coastal-tech-park-portfolio-reinforces-investor-confidence</guid>
       <category>Colliers</category>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Jenny Johnston Named Enterprising Woman in Louisville</title>
+      <link>https://www.colliers.com/en/news/louisville/enterprising-women</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/louisville/enterprising-women</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
