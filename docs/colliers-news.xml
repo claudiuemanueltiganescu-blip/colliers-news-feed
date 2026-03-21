@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 23:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 02:47:13 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Sutter Square</title>
       <link>https://www.northmarq.com/transactions/sutter-square-debt-bridge-loan-permanent-loan-floating-debt-equity-2025-10</link>
@@ -649,13 +649,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Phoenix Land Brief - 3/19/2026</title>
-      <link>https://www.colliers.com/en/news/phoenix/the-phoenix-brief-mar-19-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-brief-mar-19-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Brokers +733k SF Tech Park Sale in Goleta, CA</title>
       <link>https://www.colliers.com/en/news/los-angeles/recapitalization-of-coastal-tech-park-portfolio-reinforces-investor-confidence</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/recapitalization-of-coastal-tech-park-portfolio-reinforces-investor-confidence</guid>
@@ -673,6 +666,13 @@
       <title>[Colliers] Colliers Facilitates the $40M Sale of Industrial Properties in Lynn, MA</title>
       <link>https://www.colliers.com/en/news/boston/colliers-facilitates-the-sale-of-industrial-properties-in-lynn</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/boston/colliers-facilitates-the-sale-of-industrial-properties-in-lynn</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Secures Lease Renewal for a 248,105 SF Industrial Building in La Mirada</title>
+      <link>https://www.colliers.com/en/news/los-angeles/colliers-secures-lease-renewal-for-a-248k-sf-industrial-building-in-la-mirada</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-secures-lease-renewal-for-a-248k-sf-industrial-building-in-la-mirada</guid>
       <category>Colliers</category>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
     </item>
