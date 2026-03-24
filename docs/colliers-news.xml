@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 11:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:51:14 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,20 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Jenny Johnston Named Enterprising Woman in Louisville</title>
-      <link>https://www.colliers.com/en/news/louisville/enterprising-women</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/louisville/enterprising-women</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers Facilitates the $40M Sale of Industrial Properties in Lynn, MA</title>
-      <link>https://www.colliers.com/en/news/boston/colliers-facilitates-the-sale-of-industrial-properties-in-lynn</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/boston/colliers-facilitates-the-sale-of-industrial-properties-in-lynn</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Secures Lease Renewal for a 248,105 SF Industrial Building in La Mirada</title>
       <link>https://www.colliers.com/en/news/los-angeles/colliers-secures-lease-renewal-for-a-248k-sf-industrial-building-in-la-mirada</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-secures-lease-renewal-for-a-248k-sf-industrial-building-in-la-mirada</guid>
@@ -674,6 +660,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-14711-industrial-parkway</guid>
       <category>Colliers</category>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Old Louisville Apartment Portfolio for Sale at $2.95M</title>
+      <link>https://www.colliers.com/en/news/louisville/old-louisville-apartment</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/louisville/old-louisville-apartment</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers represents law firm in relocation of Columbia office</title>
+      <link>https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
