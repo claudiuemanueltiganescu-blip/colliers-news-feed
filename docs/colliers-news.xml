@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:11:31 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] $name</title>
-      <link>https://www.colliers.com/en/news/cleveland/2025-recap-and-2026-outlook-for-northeast-ohio</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/2025-recap-and-2026-outlook-for-northeast-ohio</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers represents law firm in relocation of Columbia office</title>
       <link>https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Colliers in New Hampshire &amp; Maine Recognizes Award Winners for 2025</title>
       <link>https://www.colliers.com/en/news/new-hampshire/colliers-in-new-hampshire-and-maine-recognizes-award-winners-for-2025</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-in-new-hampshire-and-maine-recognizes-award-winners-for-2025</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers promotes Ryan McCue to Vice President in Columbia</title>
+      <link>https://www.colliers.com/en/news/columbia-sc/colliers-promotes-ryan-mccue-to-vice-president-in-columbia</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-promotes-ryan-mccue-to-vice-president-in-columbia</guid>
       <category>Colliers</category>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
