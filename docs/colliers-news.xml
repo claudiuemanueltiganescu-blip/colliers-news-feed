@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 15:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:17:13 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -104,18 +104,18 @@
       <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Monument Apts</title>
-      <link>https://www.northmarq.com/transactions/monument-apts-debt-debt-equity-2025-11</link>
-      <description>Debt, Debt &amp; Equity — Chandler, AZ — $24,565,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/monument-apts-debt-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Centre at Bunker Hill</title>
       <link>https://www.northmarq.com/transactions/centre-bunker-hill-debt-permanent-loan-fixed-debt-equity-2025-11</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Houston, TX — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/centre-bunker-hill-debt-permanent-loan-fixed-debt-equity-2025-11</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Monument Apts</title>
+      <link>https://www.northmarq.com/transactions/monument-apts-debt-debt-equity-2025-11</link>
+      <description>Debt, Debt &amp; Equity — Chandler, AZ — $24,565,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/monument-apts-debt-debt-equity-2025-11</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
@@ -640,15 +640,15 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Madison at Black Mountain</title>
-      <link>https://www.northmarq.com/transactions/madison-black-mountain-debt-permanent-loan-fixed-debt-equity-2026-01</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Henderson, NV — $17,249,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/madison-black-mountain-debt-permanent-loan-fixed-debt-equity-2026-01</guid>
+      <title>[Northmarq] Missoula Portfolio</title>
+      <link>https://www.northmarq.com/transactions/missoula-portfolio-sale-2026-01</link>
+      <description>Sale — Missoula, MT — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/missoula-portfolio-sale-2026-01</guid>
       <category>Northmarq</category>
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] 2025 Recap &amp; 2026 Outlook Northeast Ohio</title>
+      <title>[Colliers] $name</title>
       <link>https://www.colliers.com/en/news/cleveland/2025-recap-and-2026-outlook-for-northeast-ohio</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/2025-recap-and-2026-outlook-for-northeast-ohio</guid>
       <category>Colliers</category>
@@ -658,6 +658,13 @@
       <title>[Colliers] Colliers represents law firm in relocation of Columbia office</title>
       <link>https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Establishes Future Dallas Office at International Plaza III</title>
+      <link>https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</guid>
       <category>Colliers</category>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
