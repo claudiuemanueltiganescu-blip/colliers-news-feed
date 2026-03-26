@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:18:28 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Establishes Future Dallas Office at International Plaza III</title>
-      <link>https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers in New Hampshire &amp; Maine Recognizes Award Winners for 2025</title>
       <link>https://www.colliers.com/en/news/new-hampshire/colliers-in-new-hampshire-and-maine-recognizes-award-winners-for-2025</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-in-new-hampshire-and-maine-recognizes-award-winners-for-2025</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Colliers Leases 25,000 SF Industrial Facility in Hooksett, NH</title>
       <link>https://www.colliers.com/en/news/new-hampshire/colliers-leases-25000-sf-high-bay-industrial--facility-in-hooksett-nh</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-leases-25000-sf-high-bay-industrial--facility-in-hooksett-nh</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers | South Carolina and LCK offices pledge over $152,672 to United Way</title>
+      <link>https://www.colliers.com/en/news/columbia-sc/colliers-south-carolina-and-lck-offices-pledge-funds-to-united-way</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-south-carolina-and-lck-offices-pledge-funds-to-united-way</guid>
       <category>Colliers</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
