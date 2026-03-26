@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:58:44 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers represents law firm in relocation of Columbia office</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/1400-browning_colliers-represents-law-firm-in-relocation-of-columbia-office</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Establishes Future Dallas Office at International Plaza III</title>
       <link>https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-establishes-future-dallas-office-at-international-plaza-iii</guid>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-promotes-ryan-mccue-to-vice-president-in-columbia</guid>
       <category>Colliers</category>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Leases 25,000 SF Industrial Facility in Hooksett, NH</title>
+      <link>https://www.colliers.com/en/news/new-hampshire/colliers-leases-25000-sf-high-bay-industrial--facility-in-hooksett-nh</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-leases-25000-sf-high-bay-industrial--facility-in-hooksett-nh</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
