@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:40:38 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Medley Industrial</title>
-      <link>https://www.northmarq.com/transactions/medley-industrial-debt-2025-10</link>
-      <description>Debt — Medley, FL — $3,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/medley-industrial-debt-2025-10</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] 212 Palos Verdes</title>
@@ -648,11 +640,12 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] CoStar Impact Award Winner - One Logistics Park Development</title>
-      <link>https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Bronx Apartments</title>
+      <link>https://www.northmarq.com/transactions/bronx-apartments-debt-permanent-loan-fixed-2026-01</link>
+      <description>Debt, Permanent Loan - Fixed — Bronx, NY — $2,400,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-apartments-debt-permanent-loan-fixed-2026-01</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] The Phoenix Land CRE Brief - 3/26/2026</title>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-south-carolina-and-lck-offices-pledge-funds-to-united-way</guid>
       <category>Colliers</category>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] CoStar Impact Award Winner - One Logistics Park Development</title>
+      <link>https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
