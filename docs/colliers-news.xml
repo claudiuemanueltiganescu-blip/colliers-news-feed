@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:35:49 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,20 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers | South Carolina and LCK offices pledge over $152,672 to United Way</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/colliers-south-carolina-and-lck-offices-pledge-funds-to-united-way</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-south-carolina-and-lck-offices-pledge-funds-to-united-way</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] CoStar Impact Award Winner - One Logistics Park Development</title>
-      <link>https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/washington-dc/costar-impact-awards-one-logistics-park-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Ben Wallace named 2026 D CEO Emerging CRE Professional of the Year</title>
       <link>https://www.colliers.com/en/news/dallas/ben-wallace-named-2026-d-ceo-emerging-cre-professional-of-the-year</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/ben-wallace-named-2026-d-ceo-emerging-cre-professional-of-the-year</guid>
@@ -674,6 +660,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/idaho/ibr-reader-rankings-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers’ Site Selection guides UCB to invest $2 billion in Georgia</title>
+      <link>https://www.colliers.com/en/news/atlanta/colliers-guides-ucb-to-invest-$2-billion-in-georgia</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/atlanta/colliers-guides-ucb-to-invest-$2-billion-in-georgia</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates lease for VisitGreenvilleSC at Poinsett Plaza in downtown Greenville</title>
+      <link>https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
