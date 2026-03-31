@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:19:26 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 212 Palos Verdes</title>
-      <link>https://www.northmarq.com/transactions/212-palos-verdes-debt-permanent-loan-fixed-2025-10</link>
-      <description>Debt, Permanent Loan - Fixed — Redondo Beach, CA — $1,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/212-palos-verdes-debt-permanent-loan-fixed-2025-10</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Brooklyn Industrial Property</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/bronx-apartments-debt-permanent-loan-fixed-2026-01</link>
       <description>Debt, Permanent Loan - Fixed — Bronx, NY — $2,400,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-apartments-debt-permanent-loan-fixed-2026-01</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Village on Hill Street</title>
+      <link>https://www.northmarq.com/transactions/village-hill-street-sale-2026-01</link>
+      <description>Sale — Raleigh, NC — $7,100,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/village-hill-street-sale-2026-01</guid>
       <category>Northmarq</category>
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
