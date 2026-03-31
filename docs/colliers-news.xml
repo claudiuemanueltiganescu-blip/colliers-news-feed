@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:07:10 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Ben Wallace named 2026 D CEO Emerging CRE Professional of the Year</title>
-      <link>https://www.colliers.com/en/news/dallas/ben-wallace-named-2026-d-ceo-emerging-cre-professional-of-the-year</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/ben-wallace-named-2026-d-ceo-emerging-cre-professional-of-the-year</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Idaho Sweeps Idaho Business Review’s "Reader Rankings"</title>
       <link>https://www.colliers.com/en/news/idaho/ibr-reader-rankings-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/idaho/ibr-reader-rankings-2026</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Colliers facilitates lease for VisitGreenvilleSC at Poinsett Plaza in downtown Greenville</title>
       <link>https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Indianapolis Industrial Market Finds Its Footing After Years of Oversupply</title>
+      <link>https://www.colliers.com/en/news/indianapolis/indianapolis-industrial-market-finds-its-footing-after-years-of-oversupply</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/indianapolis-industrial-market-finds-its-footing-after-years-of-oversupply</guid>
       <category>Colliers</category>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
