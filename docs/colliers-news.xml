@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 15:54:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 16:57:05 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,20 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers facilitates lease for VisitGreenvilleSC at Poinsett Plaza in downtown Greenville</title>
-      <link>https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-facilitates-lease-for-visitgreenvillesc-at-poinsett-plaza-in-downtown-greenville</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Indianapolis Industrial Market Finds Its Footing After Years of Oversupply</title>
-      <link>https://www.colliers.com/en/news/indianapolis/indianapolis-industrial-market-finds-its-footing-after-years-of-oversupply</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/indianapolis-industrial-market-finds-its-footing-after-years-of-oversupply</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers announces the promotions of real estate management and accounting team members</title>
       <link>https://www.colliers.com/en/news/columbia-sc/colliers-announces-the-promotions-of-real-estate-management-and-accounting-team-members</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-announces-the-promotions-of-real-estate-management-and-accounting-team-members</guid>
@@ -674,6 +660,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-70-connect-ii</guid>
       <category>Colliers</category>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers’ Peter Kepic Handles 124 Leases and Sales Totaling Over 24 Million Square Feet</title>
+      <link>https://www.colliers.com/en/news/detroit-ann-arbor/colliers-peter-kepic-handles-124-leases-and-sales-totaling-over-24-million-square-feet</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/detroit-ann-arbor/colliers-peter-kepic-handles-124-leases-and-sales-totaling-over-24-million-square-feet</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates sale of The Crossings at Bramblewood</title>
+      <link>https://www.colliers.com/en/news/atlanta/colliers-facilitates-sale-of-the-crossings-at-bramblewood</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/atlanta/colliers-facilitates-sale-of-the-crossings-at-bramblewood</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
