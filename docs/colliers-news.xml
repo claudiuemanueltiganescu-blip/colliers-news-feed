@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:01:22 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Ventura Villas</title>
-      <link>https://www.northmarq.com/transactions/ventura-villas-sale-2025-11</link>
-      <description>Sale — Tucson, AZ — $31,734,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/ventura-villas-sale-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Centre at Bunker Hill</title>
@@ -648,11 +640,12 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Sale of 554,228-square-foot Class A distribution facility in Greenfield, IN</title>
-      <link>https://www.colliers.com/en/news/indianapolis/sale-of-70-connect-ii</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-70-connect-ii</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Avery Cypress Creek</title>
+      <link>https://www.northmarq.com/transactions/avery-cypress-creek-debt-debt-equity-equity-2026-02</link>
+      <description>Debt, Debt &amp; Equity, Equity — Fort Lauderdale, FL — $45,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/avery-cypress-creek-debt-debt-equity-equity-2026-02</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Retail drove Northeast Ohio’s commercial real estate market in Q1: report</title>
@@ -672,6 +665,13 @@
       <title>[Colliers] Colliers facilitates sale of The Crossings at Bramblewood</title>
       <link>https://www.colliers.com/en/news/atlanta/colliers-facilitates-sale-of-the-crossings-at-bramblewood</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/atlanta/colliers-facilitates-sale-of-the-crossings-at-bramblewood</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Dealmakers March 2026</title>
+      <link>https://www.colliers.com/en/news/st-louis/dealmakers-march-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/dealmakers-march-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
