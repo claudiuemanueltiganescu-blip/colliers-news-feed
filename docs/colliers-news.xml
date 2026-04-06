@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 20:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:51:22 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Retail drove Northeast Ohio’s commercial real estate market in Q1: report</title>
-      <link>https://www.colliers.com/en/news/cleveland/retail-drove-northeast-ohios-commercial-real-estate-market-in-q1-report</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/retail-drove-northeast-ohios-commercial-real-estate-market-in-q1-report</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers’ Peter Kepic Handles 124 Leases and Sales Totaling Over 24 Million Square Feet</title>
       <link>https://www.colliers.com/en/news/detroit-ann-arbor/colliers-peter-kepic-handles-124-leases-and-sales-totaling-over-24-million-square-feet</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/detroit-ann-arbor/colliers-peter-kepic-handles-124-leases-and-sales-totaling-over-24-million-square-feet</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Dealmakers March 2026</title>
       <link>https://www.colliers.com/en/news/st-louis/dealmakers-march-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/dealmakers-march-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] From Potential to Performance: Southeast Louisiana’s Economic Growth Is Here</title>
+      <link>https://www.colliers.com/en/news/new-orleans/from-potential-to-performance-southeast-louisianas-economic-growth-is-here</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-orleans/from-potential-to-performance-southeast-louisianas-economic-growth-is-here</guid>
       <category>Colliers</category>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
