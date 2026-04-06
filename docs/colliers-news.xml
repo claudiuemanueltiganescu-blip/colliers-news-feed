@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:06:06 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Massapequa Medical Office Building</title>
-      <link>https://www.northmarq.com/transactions/massapequa-medical-office-building-debt-permanent-loan-fixed-2025-10</link>
-      <description>Debt, Permanent Loan - Fixed — Massapequa, NY — $3,400,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/massapequa-medical-office-building-debt-permanent-loan-fixed-2025-10</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Oct 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Ventura Villas</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/yardly-monroe-debt-debt-equity-equity-sale-2026-02</link>
       <description>Debt, Debt &amp; Equity, Equity, Sale — Monroe, NC — $41,250,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/yardly-monroe-debt-debt-equity-equity-sale-2026-02</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Industrial Flex Building</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-industrial-flex-building-debt-permanent-loan-fixed-2026-02</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,050,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-industrial-flex-building-debt-permanent-loan-fixed-2026-02</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
