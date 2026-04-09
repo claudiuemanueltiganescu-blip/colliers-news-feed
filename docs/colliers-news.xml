@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 15:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:31:12 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Revelry Apartments</title>
-      <link>https://www.northmarq.com/transactions/revelry-apartments-debt-permanent-loan-fixed-debt-equity-2025-11</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Madison, WI — $32,205,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/revelry-apartments-debt-permanent-loan-fixed-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Cottages at Bell Station</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/eastline-residences-sale-2026-02</link>
       <description>Sale — Dallas, TX — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/eastline-residences-sale-2026-02</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Westminster &amp; Prairie Oaks</title>
+      <link>https://www.northmarq.com/transactions/westminster-prairie-oaks-sale-2026-02</link>
+      <description>Sale — Madison, WI — $10,700,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/westminster-prairie-oaks-sale-2026-02</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
