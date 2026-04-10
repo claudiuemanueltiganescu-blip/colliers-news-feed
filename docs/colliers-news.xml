@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 21:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 22:56:17 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Facilitates Windham Expansion for Salty Dog Adventures</title>
-      <link>https://www.colliers.com/en/news/maine/colliers-facilitates-windham-expansion-for--salty-dog-adventures</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/maine/colliers-facilitates-windham-expansion-for--salty-dog-adventures</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] The Phoenix Land CRE Brief - 4/9/2026</title>
       <link>https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-apr-9-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-apr-9-2026</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Rachel Patten named 2026 Emerging Leader of the Year</title>
       <link>https://www.colliers.com/en/news/indianapolis/rachel-patten-wins-2026-emerging-leader-of-the-year-award</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/rachel-patten-wins-2026-emerging-leader-of-the-year-award</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sale of Castle Rock Industrial at The Meadows</title>
+      <link>https://www.colliers.com/en/news/denver/sale-of-castle-rock-industrial-at-the-meadows</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/denver/sale-of-castle-rock-industrial-at-the-meadows</guid>
       <category>Colliers</category>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
