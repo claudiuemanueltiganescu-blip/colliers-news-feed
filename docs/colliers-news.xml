@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:58:18 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,20 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Brokers Sale of 69K SF Tristar Business Park Building 1</title>
-      <link>https://www.colliers.com/en/news/dallas/colliers-brokers-sale-of-69k-sf-tristar-business-park</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/colliers-brokers-sale-of-69k-sf-tristar-business-park</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Pointe Plaza Apartments Sold</title>
-      <link>https://www.colliers.com/en/news/denver/pointe-plaza-apartments-sale</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/denver/pointe-plaza-apartments-sale</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Havana/Forest Portfolio Sale</title>
       <link>https://www.colliers.com/en/news/denver/havana-forest-portfolio-sale</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/denver/havana-forest-portfolio-sale</guid>
@@ -674,6 +660,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/berkeley-building-sale</guid>
       <category>Colliers</category>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Cincinnati Office Relocates to The Banks | Rosa Parks Building Lease</title>
+      <link>https://www.colliers.com/en/news/cincinnati/colliers-relocate</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/cincinnati/colliers-relocate</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Savannah Promotes Tyler Mouchet to Partner</title>
+      <link>https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
