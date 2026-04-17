@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:05:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:31:06 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,16 +648,9 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers facilitates sale of The Berkeley Building in Center Point Office Park</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/berkeley-building-sale</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/berkeley-building-sale</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers Cincinnati Office Relocates to The Banks | Rosa Parks Building Lease</title>
-      <link>https://www.colliers.com/en/news/cincinnati/colliers-relocate</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/cincinnati/colliers-relocate</guid>
+      <title>[Colliers] Colliers completes $6.28 million sale of a 48-unit community in Twin Cities suburb</title>
+      <link>https://www.colliers.com/en/news/minneapolis-st-paul/colliers-completes-$6-28-million-sale-of-a-48-unit-community-in-twin-cities-suburb</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/colliers-completes-$6-28-million-sale-of-a-48-unit-community-in-twin-cities-suburb</guid>
       <category>Colliers</category>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
@@ -672,6 +665,13 @@
       <title>[Colliers] Colliers leases former NOMA Warehouse to River Church</title>
       <link>https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] The Central Coast’s Multifamily Divide: Institutional Conviction, Local Friction, and the Cost of Uncertainty</title>
+      <link>https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</guid>
       <category>Colliers</category>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
     </item>
