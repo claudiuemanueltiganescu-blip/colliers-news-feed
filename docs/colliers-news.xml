@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:11:51 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers completes $6.28 million sale of a 48-unit community in Twin Cities suburb</title>
-      <link>https://www.colliers.com/en/news/minneapolis-st-paul/colliers-completes-$6-28-million-sale-of-a-48-unit-community-in-twin-cities-suburb</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/minneapolis-st-paul/colliers-completes-$6-28-million-sale-of-a-48-unit-community-in-twin-cities-suburb</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Savannah Promotes Tyler Mouchet to Partner</title>
       <link>https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</guid>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</guid>
       <category>Colliers</category>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Welcome Hunter Alexander</title>
+      <link>https://www.colliers.com/en/news/kansas-city/welcome-hunter-alexander</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/welcome-hunter-alexander</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
