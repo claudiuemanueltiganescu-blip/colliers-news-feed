@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:42:08 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Savannah Promotes Tyler Mouchet to Partner</title>
-      <link>https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/savannah/tyler-mouchet-named-partner</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers leases former NOMA Warehouse to River Church</title>
       <link>https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</guid>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/welcome-hunter-alexander</guid>
       <category>Colliers</category>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Phoenix industrial market posts record Q1 2026 investment sales</title>
+      <link>https://www.colliers.com/en/news/phoenix/greater-phoenix-posts-strongest-quarter-of-industrial-investment-on-record</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/greater-phoenix-posts-strongest-quarter-of-industrial-investment-on-record</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
