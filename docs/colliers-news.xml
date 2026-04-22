@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:08:57 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Central Coast’s Multifamily Divide: Institutional Conviction, Local Friction, and the Cost of Uncertainty</title>
-      <link>https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Welcome Hunter Alexander</title>
       <link>https://www.colliers.com/en/news/kansas-city/welcome-hunter-alexander</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/welcome-hunter-alexander</guid>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/colliers-closes-two-marina-sales-on-east-and-west-coasts</guid>
       <category>Colliers</category>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates F3 Marina sale to Southern Marinas in Fort Lauderdale</title>
+      <link>https://www.colliers.com/en/news/tampa-bay/colliers-facilitates-f3-marina-sale-to-southern-marinas-in-fort-lauderdale</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/colliers-facilitates-f3-marina-sale-to-southern-marinas-in-fort-lauderdale</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
