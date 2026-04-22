@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:08:25 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers leases former NOMA Warehouse to River Church</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-leases-former-noma-warehouse-to-river-church</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] The Central Coast’s Multifamily Divide: Institutional Conviction, Local Friction, and the Cost of Uncertainty</title>
       <link>https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/santa-barbara/the-central-coast-multifamily-divide</guid>
@@ -672,6 +665,13 @@
       <title>[Colliers] Phoenix industrial market posts record Q1 2026 investment sales</title>
       <link>https://www.colliers.com/en/news/phoenix/greater-phoenix-posts-strongest-quarter-of-industrial-investment-on-record</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/greater-phoenix-posts-strongest-quarter-of-industrial-investment-on-record</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers closes two marina sales on East and West coasts</title>
+      <link>https://www.colliers.com/en/news/tampa-bay/colliers-closes-two-marina-sales-on-east-and-west-coasts</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/colliers-closes-two-marina-sales-on-east-and-west-coasts</guid>
       <category>Colliers</category>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
     </item>
