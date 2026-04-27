@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:55:25 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
       <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Far Rockaway Apts</title>
-      <link>https://www.northmarq.com/transactions/far-rockaway-apts-debt-debt-equity-2025-11</link>
-      <description>Debt, Debt &amp; Equity — Far Rockaway, NY — $10,850,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/far-rockaway-apts-debt-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Istana at Wurzbach</title>
-      <link>https://www.northmarq.com/transactions/istana-wurzbach-debt-bridge-loan-debt-equity-2025-11</link>
-      <description>Debt, Bridge Loan, Debt &amp; Equity — San Antonio, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/istana-wurzbach-debt-bridge-loan-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Acclaim of Woodbury</title>
@@ -648,11 +632,20 @@
       <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers facilitates F3 Marina sale to Southern Marinas in Fort Lauderdale</title>
-      <link>https://www.colliers.com/en/news/tampa-bay/colliers-facilitates-f3-marina-sale-to-southern-marinas-in-fort-lauderdale</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/colliers-facilitates-f3-marina-sale-to-southern-marinas-in-fort-lauderdale</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Laurel View</title>
+      <link>https://www.northmarq.com/transactions/laurel-view-sale-2026-03</link>
+      <description>Sale — Concord, NC — $41,390,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/laurel-view-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 13590 Vaughn St.</title>
+      <link>https://www.northmarq.com/transactions/13590-vaughn-st-debt-2026-03</link>
+      <description>Debt — San Fernando, CA — $2,400,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/13590-vaughn-st-debt-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] The Phoenix CRE Brief April 23 2026 - A brief summary of commercial real estate activity in the Phoenix Metro</title>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-facilitates-sale-of-newly-constructed-the-baxter-apts-in-hollywood</guid>
       <category>Colliers</category>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers strengthens West Michigan presence with two new hires</title>
+      <link>https://www.colliers.com/en/news/grand-rapids/two-new-hires</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/grand-rapids/two-new-hires</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
