@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 22:11:00 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers strengthens West Michigan presence with two new hires</title>
-      <link>https://www.colliers.com/en/news/grand-rapids/two-new-hires</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/grand-rapids/two-new-hires</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Konnichiwa restaurant coming to Cardinal Crossing in Forest Acres</title>
       <link>https://www.colliers.com/en/news/columbia-sc/konnichiwa-restaurant-coming-to-cardinal-crossing-in-forest-acres</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/konnichiwa-restaurant-coming-to-cardinal-crossing-in-forest-acres</guid>
@@ -667,6 +660,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/cleveland-has-ohios-highest-apartment-rents</guid>
       <category>Colliers</category>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Liles Industrial Team Joins Colliers</title>
+      <link>https://www.colliers.com/en/news/phoenix/liles-industrial-team-joins-colliers</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/liles-industrial-team-joins-colliers</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Society of Industrial and Office Realtors® Elects Scott Savacool, SIOR, as Vice President</title>
