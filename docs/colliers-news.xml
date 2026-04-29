@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:47:15 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,13 +648,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Facilitates Sale of Newly Constructed 86-Unit “The Baxter” Apartments in Hollywood</title>
-      <link>https://www.colliers.com/en/news/los-angeles/colliers-facilitates-sale-of-newly-constructed-the-baxter-apts-in-hollywood</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-facilitates-sale-of-newly-constructed-the-baxter-apts-in-hollywood</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers strengthens West Michigan presence with two new hires</title>
       <link>https://www.colliers.com/en/news/grand-rapids/two-new-hires</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/grand-rapids/two-new-hires</guid>
@@ -674,6 +667,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/cleveland-has-ohios-highest-apartment-rents</guid>
       <category>Colliers</category>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Society of Industrial and Office Realtors® Elects Scott Savacool, SIOR, as Vice President</title>
+      <link>https://www.colliers.com/en/news/st-louis/scott-savacool-sior-vice-president</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/scott-savacool-sior-vice-president</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
