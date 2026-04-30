@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:47:17 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -648,20 +648,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Konnichiwa restaurant coming to Cardinal Crossing in Forest Acres</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/konnichiwa-restaurant-coming-to-cardinal-crossing-in-forest-acres</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/konnichiwa-restaurant-coming-to-cardinal-crossing-in-forest-acres</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Cleveland has Ohio’s highest apartment rents</title>
-      <link>https://www.colliers.com/en/news/cleveland/cleveland-has-ohios-highest-apartment-rents</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/cleveland/cleveland-has-ohios-highest-apartment-rents</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Liles Industrial Team Joins Colliers</title>
       <link>https://www.colliers.com/en/news/phoenix/liles-industrial-team-joins-colliers</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/liles-industrial-team-joins-colliers</guid>
@@ -674,6 +660,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/scott-savacool-sior-vice-president</guid>
       <category>Colliers</category>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] 200 Meeting Street Draws Major Tenants During Active Renovation as Fourthline Capital’s Downtown Charleston Repositioning Gains Momentum</title>
+      <link>https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Megan Lawson joins Colliers | South Carolina as Market Analyst</title>
+      <link>https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
