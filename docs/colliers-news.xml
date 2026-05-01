@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 18:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 19:38:20 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -16,20 +16,11 @@
       <category>Northmarq</category>
     </item>
     <item>
-      <title>[Northmarq] The Baltimorean</title>
-      <link>https://www.northmarq.com/transactions/baltimorean-sale-2025-11</link>
-      <description>Sale — Baltimore, MD — $5,950,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/baltimorean-sale-2025-11</guid>
+      <title>[Northmarq] Valere Apts</title>
+      <link>https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</link>
+      <description>Sale — Clarksville, TN — $4,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 50-54 Main Street</title>
-      <link>https://www.northmarq.com/transactions/50-54-main-street-debt-permanent-loan-fixed-2025-11</link>
-      <description>Debt, Permanent Loan - Fixed — Durham, NH — $1,200,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/50-54-main-street-debt-permanent-loan-fixed-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Yardly Paradisi</title>
@@ -648,11 +639,12 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Phoenix CRE Brief April 30, 2026 - A brief summary of commercial real estate activity in the Phoenix Metro</title>
-      <link>https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-apr-30-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-apr-30-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] 14928 Oxnard</title>
+      <link>https://www.northmarq.com/transactions/14928-oxnard-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Van Nuys, CA — $2,955,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/14928-oxnard-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers Facilitates nbkc bank’s Acquisition of New Headquarters</title>
@@ -674,6 +666,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</guid>
       <category>Colliers</category>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Southern New Hampshire CRE Enters a More Selective Era</title>
+      <link>https://www.colliers.com/en/news/new-hampshire/southern-new-hampshire-cre-enters-a-more-selective-era</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/southern-new-hampshire-cre-enters-a-more-selective-era</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
