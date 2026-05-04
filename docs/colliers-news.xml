@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 12:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:20:28 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,13 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Facilitates nbkc bank’s Acquisition of New Headquarters</title>
-      <link>https://www.colliers.com/en/news/kansas-city/colliers-represents-nbkc-bank-in-overland-park-acquisition</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/colliers-represents-nbkc-bank-in-overland-park-acquisition</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] 200 Meeting Street Draws Major Tenants During Active Renovation as Fourthline Capital’s Downtown Charleston Repositioning Gains Momentum</title>
       <link>https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</guid>
@@ -673,6 +666,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/southern-new-hampshire-cre-enters-a-more-selective-era</guid>
       <category>Colliers</category>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Pittsburgh Brokers make SIOR List of Top 2025 Office Transactions Globally</title>
+      <link>https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
