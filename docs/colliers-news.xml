@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 21:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:09:42 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,20 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Megan Lawson joins Colliers | South Carolina as Market Analyst</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Southern New Hampshire CRE Enters a More Selective Era</title>
-      <link>https://www.colliers.com/en/news/new-hampshire/southern-new-hampshire-cre-enters-a-more-selective-era</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/southern-new-hampshire-cre-enters-a-more-selective-era</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Pittsburgh Brokers make SIOR List of Top 2025 Office Transactions Globally</title>
       <link>https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</guid>
@@ -673,6 +659,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/matthew-pastrano-joins-colliers-dallas-as-senior-vice-president</guid>
       <category>Colliers</category>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Basis Industrial Buys Shallow Bay Portfolio in Southeast for $144.6M</title>
+      <link>https://www.colliers.com/en/news/reno/basis-industrial-buys-shallow-bay-portfolio</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/reno/basis-industrial-buys-shallow-bay-portfolio</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] 2026 HBJ Heavy Hitters | Houston's Top CRE Brokers</title>
+      <link>https://www.colliers.com/en/news/houston/houston-heavy-hitters-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/houston/houston-heavy-hitters-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
