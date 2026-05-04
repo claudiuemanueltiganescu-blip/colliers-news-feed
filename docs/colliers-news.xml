@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 17:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:55:03 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,13 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] 200 Meeting Street Draws Major Tenants During Active Renovation as Fourthline Capital’s Downtown Charleston Repositioning Gains Momentum</title>
-      <link>https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/charleston-sc/200-meeting-street-gains-momentum</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Megan Lawson joins Colliers | South Carolina as Market Analyst</title>
       <link>https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/megan-lawson-joins-colliers-south-carolina-as-market-analyst</guid>
@@ -671,6 +664,13 @@
       <title>[Colliers] Pittsburgh Brokers make SIOR List of Top 2025 Office Transactions Globally</title>
       <link>https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Matthew Pastrano Joins Colliers Dallas as Senior Vice President</title>
+      <link>https://www.colliers.com/en/news/dallas/matthew-pastrano-joins-colliers-dallas-as-senior-vice-president</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/matthew-pastrano-joins-colliers-dallas-as-senior-vice-president</guid>
       <category>Colliers</category>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
