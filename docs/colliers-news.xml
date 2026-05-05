@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 20:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:17:16 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,14 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Yardly Paradisi</title>
-      <link>https://www.northmarq.com/transactions/yardly-paradisi-debt-debt-equity-sale-2025-11</link>
-      <description>Debt, Debt &amp; Equity, Sale — Surprise, AZ — $32,760,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/yardly-paradisi-debt-debt-equity-sale-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Queens Distribution Center</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/14928-oxnard-debt-permanent-loan-fixed-debt-equity-2026-03</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Van Nuys, CA — $2,955,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/14928-oxnard-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Apex at Twin Creek</title>
+      <link>https://www.northmarq.com/transactions/apex-twin-creek-debt-debt-equity-sale-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Sale — Bellevue, NE — $44,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/apex-twin-creek-debt-debt-equity-sale-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
