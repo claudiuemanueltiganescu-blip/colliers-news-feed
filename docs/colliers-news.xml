@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 14:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:54:41 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,13 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Pittsburgh Brokers make SIOR List of Top 2025 Office Transactions Globally</title>
-      <link>https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/sior-top-2025-office-deals</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Matthew Pastrano Joins Colliers Dallas as Senior Vice President</title>
       <link>https://www.colliers.com/en/news/dallas/matthew-pastrano-joins-colliers-dallas-as-senior-vice-president</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/matthew-pastrano-joins-colliers-dallas-as-senior-vice-president</guid>
@@ -668,9 +661,16 @@
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] 2026 HBJ Heavy Hitters | Houston's Top CRE Brokers</title>
+      <title>[Colliers] 2026 HBJ Heavy Hitters Houston's Top CRE Brokers</title>
       <link>https://www.colliers.com/en/news/houston/houston-heavy-hitters-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/houston/houston-heavy-hitters-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers grows Los Angeles Office Practice with strategic leasing hire</title>
+      <link>https://www.colliers.com/en/news/los-angeles/colliers-grows-los-angeles-office-practice-with-strategic-leasing-hire</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-grows-los-angeles-office-practice-with-strategic-leasing-hire</guid>
       <category>Colliers</category>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
