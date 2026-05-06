@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 20:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:08:48 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,13 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers welcomes new Property  Administrator in Greenville</title>
-      <link>https://www.colliers.com/en/news/greenville/colliers-welcomes-new-property--administrator-in-greenville</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-welcomes-new-property--administrator-in-greenville</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers | South Carolina announces marketing team promotions in Spartanburg and Greenville</title>
       <link>https://www.colliers.com/en/news/greenville/colliers-south-carolina-announces-marketing-team-promotions-in-spartanburg-and-greenville</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/colliers-south-carolina-announces-marketing-team-promotions-in-spartanburg-and-greenville</guid>
@@ -671,6 +664,13 @@
       <title>[Colliers] Colliers Dealmakers: Recent purchases, sales, leases and investments in Florence/Myrtle Beach</title>
       <link>https://www.colliers.com/en/news/columbia-sc/colliers-dealmakers-may-6-2026-myrtle-beach</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-dealmakers-may-6-2026-myrtle-beach</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Frederick and Sarro Testimonials</title>
+      <link>https://www.colliers.com/en/news/sacramento/fredericksarro_testimonials</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/sacramento/fredericksarro_testimonials</guid>
       <category>Colliers</category>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
