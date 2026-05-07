@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 13:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:36:20 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,14 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Palm &amp; Hollister Apts</title>
-      <link>https://www.northmarq.com/transactions/palm-hollister-apts-debt-construction-loan-debt-equity-2025-11</link>
-      <description>Debt, Construction Loan, Debt &amp; Equity — San Diego, CA — $66,150,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/palm-hollister-apts-debt-construction-loan-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] The Regency at Chandler Park</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/apex-twin-creek-debt-debt-equity-sale-2026-03</link>
       <description>Debt, Debt &amp; Equity, Sale — Bellevue, NE — $44,200,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/apex-twin-creek-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Eagle Run</title>
+      <link>https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Equity — Omaha, NE — $45,600,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
