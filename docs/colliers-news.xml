@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 15:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:57:47 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,30 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Regency at Chandler Park</title>
-      <link>https://www.northmarq.com/transactions/regency-chandler-park-debt-permanent-loan-fixed-2025-11</link>
-      <description>Debt, Permanent Loan - Fixed — Greer, SC — $7,250,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/regency-chandler-park-debt-permanent-loan-fixed-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Lofts at Layton</title>
-      <link>https://www.northmarq.com/transactions/lofts-layton-debt-debt-equity-sale-2025-11</link>
-      <description>Debt, Debt &amp; Equity, Sale — Milwaukee, WI — $19,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/lofts-layton-debt-debt-equity-sale-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Haverhill Multifamily Community</title>
-      <link>https://www.northmarq.com/transactions/haverhill-multifamily-community-debt-bridge-loan-2025-11</link>
-      <description>Debt, Bridge Loan — Haverhill, MA — $995,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/haverhill-multifamily-community-debt-bridge-loan-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Bachon Townhomes</title>
@@ -647,6 +623,30 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Northmarq] Central 7 Commerce Center</title>
+      <link>https://www.northmarq.com/transactions/central-7-commerce-center-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Las Vegas, NV — $53,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/central-7-commerce-center-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Evolve New Hope Farm</title>
+      <link>https://www.northmarq.com/transactions/evolve-new-hope-farm-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Wellford, SC — $41,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/evolve-new-hope-farm-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Douglas Terrace</title>
+      <link>https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Sale — Racine, WI — $23,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Colliers] Colliers Dealmakers: Recent purchases, sales, leases and investments in Columbia</title>
       <link>https://www.colliers.com/en/news/columbia-sc/colliers-dealmakers-may-6-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-dealmakers-may-6-2026</guid>
@@ -668,11 +668,11 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Frederick and Sarro Testimonials</title>
-      <link>https://www.colliers.com/en/news/sacramento/fredericksarro_testimonials</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/sacramento/fredericksarro_testimonials</guid>
+      <title>[Colliers] DFW Multifamily at an Inflection Point: What 2025 Taught Us and What We Expect in 2026</title>
+      <link>https://www.colliers.com/en/news/dallas/dfw-multifamily-at-an-inflection-point-what-2025-taught-us-and-what-we-expect-in-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/dfw-multifamily-at-an-inflection-point-what-2025-taught-us-and-what-we-expect-in-2026</guid>
       <category>Colliers</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
