@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 12:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 16:11:06 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,13 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers secures exclusive leasing assignment of Oakland’s premier office tower</title>
-      <link>https://www.colliers.com/en/news/oakland/colliers-secures-exclusive-leasing-assignment-of-oaklands-premier-office-tower</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/oakland/colliers-secures-exclusive-leasing-assignment-of-oaklands-premier-office-tower</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] The Phoenix CRE Brief May 7, 2026 - A brief summary of commercial real estate activity in the Phoenix Metro</title>
       <link>https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-7-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-7-2026</guid>
@@ -673,6 +666,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-closes-12-m-sale-of-manufacturing-facility-in-reno</guid>
       <category>Colliers</category>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Dealmakers April 2026</title>
+      <link>https://www.colliers.com/en/news/st-louis/dealmakers-april-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/dealmakers-april-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
