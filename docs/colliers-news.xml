@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 18:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:03:31 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,20 +647,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Phoenix CRE Brief May 7, 2026 - A brief summary of commercial real estate activity in the Phoenix Metro</title>
-      <link>https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-7-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-7-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] DFW Multifamily at an Inflection Point: What 2025 Taught Us and What We Expect in 2026</title>
-      <link>https://www.colliers.com/en/news/dallas/dfw-multifamily-at-an-inflection-point-what-2025-taught-us-and-what-we-expect-in-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/dallas/dfw-multifamily-at-an-inflection-point-what-2025-taught-us-and-what-we-expect-in-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Closes $12.15 Million Sale of Long-Term Leased Manufacturing Facility in Reno</title>
       <link>https://www.colliers.com/en/news/los-angeles/colliers-closes-12-m-sale-of-manufacturing-facility-in-reno</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/colliers-closes-12-m-sale-of-manufacturing-facility-in-reno</guid>
@@ -671,6 +657,20 @@
       <title>[Colliers] Dealmakers April 2026</title>
       <link>https://www.colliers.com/en/news/st-louis/dealmakers-april-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/st-louis/dealmakers-april-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sale of Parc @ 5 Apartment Community Highlights Investor Appetite for Scale in Infill Southern California Markets</title>
+      <link>https://www.colliers.com/en/news/los-angeles/sale-of-parc-5-apartment-community-highlights-appetite-for-infill-socal-markets</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/sale-of-parc-5-apartment-community-highlights-appetite-for-infill-socal-markets</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] In the News: Southeastern Wisconsin Industrial Market Finds Its Footing in Early 2026</title>
+      <link>https://www.colliers.com/en/news/milwaukee/hreb-article-may-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/milwaukee/hreb-article-may-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
