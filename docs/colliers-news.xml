@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 13:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 16:32:44 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,14 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Aria at Ella</title>
-      <link>https://www.northmarq.com/transactions/aria-ella-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Spring, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/aria-ella-debt-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Union Station</title>
@@ -647,11 +639,12 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers brings historic Alameda Hotel Apartments to market</title>
-      <link>https://www.colliers.com/en/news/oakland/colliers-brings-historic-alameda-hotel-apartments-to-market</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/oakland/colliers-brings-historic-alameda-hotel-apartments-to-market</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Koreatown Portfolio</title>
+      <link>https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</link>
+      <description>Sale — Los Angeles, CA — $14,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Sale of Parc @ 5 Apartment Community Highlights Investor Appetite for Scale in Infill Southern California Markets</title>
@@ -673,6 +666,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-announces-new-operations-and-accounting-hires-in-columbia-office</guid>
       <category>Colliers</category>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sophia Hollywood Apartments Trade as Investors Target Core Los Angeles Multifamily Assets</title>
+      <link>https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
