@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 10:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:28:50 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,22 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Bachon Townhomes</title>
-      <link>https://www.northmarq.com/transactions/bachon-townhomes-permanent-loan-fixed-debt-equity-2025-11</link>
-      <description>Permanent Loan - Fixed, Debt &amp; Equity — Wylie, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/bachon-townhomes-permanent-loan-fixed-debt-equity-2025-11</guid>
-      <category>Northmarq</category>
-      <pubDate>Sat, 01 Nov 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 403 West</title>
-      <link>https://www.northmarq.com/transactions/403-west-debt-bridge-loan-debt-equity-2025-12</link>
-      <description>Debt, Bridge Loan, Debt &amp; Equity — Raleigh, NC — $55,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/403-west-debt-bridge-loan-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Aria at Ella</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</link>
       <description>Debt, Debt &amp; Equity, Sale — Racine, WI — $23,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Reside on Barry</title>
+      <link>https://www.northmarq.com/transactions/reside-barry-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Chicago, IL — $45,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/reside-barry-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Georgia MHC Portfolio</title>
+      <link>https://www.northmarq.com/transactions/georgia-mhc-portfolio-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Atlanta, GA — $14,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/georgia-mhc-portfolio-debt-equity-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
