@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 18:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 20:01:12 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -23,20 +23,11 @@
       <category>Northmarq</category>
     </item>
     <item>
-      <title>[Northmarq] Hobart Villa and Kingsley Grand Apts</title>
-      <link>https://www.northmarq.com/transactions/hobart-villa-and-kingsley-grand-apts-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Los Angeles, CA — $16,250,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/hobart-villa-and-kingsley-grand-apts-debt-debt-equity-2025-12</guid>
+      <title>[Northmarq] Champions Gate</title>
+      <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
+      <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Majestic Airport Center</title>
-      <link>https://www.northmarq.com/transactions/majestic-airport-center-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Ontario, CA — $22,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/majestic-airport-center-debt-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Kings Cross Apartments</title>
@@ -643,6 +634,14 @@
       <link>https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</link>
       <description>Debt, Debt &amp; Equity — Cupertino, CA — $145,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Crescent Park</title>
+      <link>https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Riverview, FL — $6,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
