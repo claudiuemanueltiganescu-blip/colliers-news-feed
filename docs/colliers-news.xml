@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 15:32:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:07:03 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -21,22 +21,6 @@
       <description>Sale — Clarksville, TN — $4,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Union Station</title>
-      <link>https://www.northmarq.com/transactions/union-station-sale-2025-12</link>
-      <description>Sale — Camas, WA — $18,675,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/union-station-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Alhambra Business Center</title>
-      <link>https://www.northmarq.com/transactions/alhambra-business-center-debt-permanent-loan-fixed-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed — Doral, FL — $3,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/alhambra-business-center-debt-permanent-loan-fixed-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Hobart Villa and Kingsley Grand Apts</title>
@@ -647,30 +631,46 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Sophia Hollywood Apartments Trade as Investors Target Core Los Angeles Multifamily Assets</title>
-      <link>https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Merchants Exchange</title>
+      <link>https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — San Fransisco, CA — $50,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] In the News: Wisconsin School of Professional Psychology to expand with move to West Allis</title>
-      <link>https://www.colliers.com/en/news/milwaukee/wisconsin-school-of-professional-psychology-to-expand-with-move-to-west-allis</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/milwaukee/wisconsin-school-of-professional-psychology-to-expand-with-move-to-west-allis</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers expands tenant mix at Palmetto Plaza with lease to Bougie Kids Consignment</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/colliers-expands-tenant-mix-at-palmetto-plaza-with-lease-to-bougie-kids-consignment</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-expands-tenant-mix-at-palmetto-plaza-with-lease-to-bougie-kids-consignment</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] The Towers at Cupertino City Center</title>
+      <link>https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Cupertino, CA — $145,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Ryan Chapman Named to The Journal Record’s 23rd Class of Achievers Under 40</title>
       <link>https://www.colliers.com/en/news/oklahoma-city/ryan-chapman-named-to-the-journal-records-23rd-class-of-achievers-under-40</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/oklahoma-city/ryan-chapman-named-to-the-journal-records-23rd-class-of-achievers-under-40</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Facilitates 101,000-Square-Foot Lease at Axia Business Park</title>
+      <link>https://www.colliers.com/en/news/pleasant-grove/lease-at-axia-business-park</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/pleasant-grove/lease-at-axia-business-park</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sale of Georgetown Commerce Park</title>
+      <link>https://www.colliers.com/en/news/indianapolis/sale-of-georgetown-commerce-park</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-georgetown-commerce-park</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Sale of Innovation Industrial Park Building 2</title>
+      <link>https://www.colliers.com/en/news/indianapolis/sale-of-innovation-industrial-park-building-2</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-innovation-industrial-park-building-2</guid>
       <category>Colliers</category>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
