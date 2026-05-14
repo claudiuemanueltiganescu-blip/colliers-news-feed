@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 13:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 15:32:23 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -647,23 +647,16 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] In the News: Southeastern Wisconsin Industrial Market Finds Its Footing in Early 2026</title>
-      <link>https://www.colliers.com/en/news/milwaukee/hreb-article-may-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/milwaukee/hreb-article-may-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers announces new operations and accounting hires in Columbia office</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/colliers-announces-new-operations-and-accounting-hires-in-columbia-office</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-announces-new-operations-and-accounting-hires-in-columbia-office</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Sophia Hollywood Apartments Trade as Investors Target Core Los Angeles Multifamily Assets</title>
       <link>https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/sophia-hollywood-apartments-trade-as-investors-target-core-los-angeles-multifamily-assets</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] In the News: Wisconsin School of Professional Psychology to expand with move to West Allis</title>
+      <link>https://www.colliers.com/en/news/milwaukee/wisconsin-school-of-professional-psychology-to-expand-with-move-to-west-allis</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/milwaukee/wisconsin-school-of-professional-psychology-to-expand-with-move-to-west-allis</guid>
       <category>Colliers</category>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -673,6 +666,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-expands-tenant-mix-at-palmetto-plaza-with-lease-to-bougie-kids-consignment</guid>
       <category>Colliers</category>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Ryan Chapman Named to The Journal Record’s 23rd Class of Achievers Under 40</title>
+      <link>https://www.colliers.com/en/news/oklahoma-city/ryan-chapman-named-to-the-journal-records-23rd-class-of-achievers-under-40</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/oklahoma-city/ryan-chapman-named-to-the-journal-records-23rd-class-of-achievers-under-40</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
