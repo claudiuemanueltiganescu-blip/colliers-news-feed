@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 13:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 15:28:37 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -646,13 +646,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Facilitates 101,000-Square-Foot Lease at Axia Business Park</title>
-      <link>https://www.colliers.com/en/news/pleasant-grove/lease-at-axia-business-park</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/pleasant-grove/lease-at-axia-business-park</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Facilitates the Sale of Two Multifamily Communities in Fort Smith</title>
       <link>https://www.colliers.com/en/news/tulsa/colliers-facilitates-the-sale-of-two-multifamily-communities-in-fort-smith</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/tulsa/colliers-facilitates-the-sale-of-two-multifamily-communities-in-fort-smith</guid>
@@ -672,6 +665,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-innovation-industrial-park-building-2</guid>
       <category>Colliers</category>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers strengthens retail services with addition of Vice Chair and Senior Vice President</title>
+      <link>https://www.colliers.com/en/news/new-york/5_2026_hirschfeld_press_release</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-york/5_2026_hirschfeld_press_release</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
