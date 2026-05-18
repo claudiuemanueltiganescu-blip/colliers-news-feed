@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 16:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:02:48 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -28,14 +28,6 @@
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Kings Cross Apartments</title>
-      <link>https://www.northmarq.com/transactions/kings-cross-apartments-debt-2025-12</link>
-      <description>Debt — Fayetteville, NC — $13,327,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/kings-cross-apartments-debt-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] IMT Germantown</title>
@@ -646,11 +638,12 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Sale of Georgetown Commerce Park</title>
-      <link>https://www.colliers.com/en/news/indianapolis/sale-of-georgetown-commerce-park</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-georgetown-commerce-park</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Warehouse Central</title>
+      <link>https://www.northmarq.com/transactions/warehouse-central-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Denver, CO — $18,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/warehouse-central-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Sale of Innovation Industrial Park Building 2</title>
@@ -665,6 +658,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-york/5_2026_hirschfeld_press_release</guid>
       <category>Colliers</category>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Strong leasing and inventory reductions fuel Phoenix office market health</title>
+      <link>https://www.colliers.com/en/news/phoenix/strong-leasing-and-inventory-reductions-fuel-phoenix-office-market-health</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/strong-leasing-and-inventory-reductions-fuel-phoenix-office-market-health</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers Brings Capitol Crossing Ind/Flex Asset to Market in Concord</title>
