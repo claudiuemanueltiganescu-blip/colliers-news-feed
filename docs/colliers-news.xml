@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 19:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 20:52:52 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -28,14 +28,6 @@
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Penske Industrial Facility</title>
-      <link>https://www.northmarq.com/transactions/penske-industrial-facility-sale-2025-12</link>
-      <description>Sale — North Bergen, NJ — $8,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/penske-industrial-facility-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Linden at Parkside</title>
@@ -642,6 +634,14 @@
       <link>https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Milwaukee, WI — $38,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Price Brothers Credit Facility</title>
+      <link>https://www.northmarq.com/transactions/price-brothers-credit-facility-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Kansas City, MO — $512,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/price-brothers-credit-facility-debt-debt-equity-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
