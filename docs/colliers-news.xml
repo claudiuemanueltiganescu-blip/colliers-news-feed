@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 12:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:31:14 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -646,13 +646,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Sale of Innovation Industrial Park Building 2</title>
-      <link>https://www.colliers.com/en/news/indianapolis/sale-of-innovation-industrial-park-building-2</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/indianapolis/sale-of-innovation-industrial-park-building-2</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers strengthens retail services with addition of Vice Chair and Senior Vice President</title>
       <link>https://www.colliers.com/en/news/new-york/5_2026_hirschfeld_press_release</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-york/5_2026_hirschfeld_press_release</guid>
@@ -672,6 +665,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-brings-capitol-crossing-industrial-flex-asset-to-market-in-concord</guid>
       <category>Colliers</category>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Clearwater, Fla., industrial portfolio sells for $23.5 million</title>
+      <link>https://www.colliers.com/en/news/tampa-bay/clearwater-fl-industrial-portfolio-sells-for-23-5-million</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/clearwater-fl-industrial-portfolio-sells-for-23-5-million</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
