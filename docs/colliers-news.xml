@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 15:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:31:35 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -28,30 +28,6 @@
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Element</title>
-      <link>https://www.northmarq.com/transactions/element-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Mount Prospect, IL — $60,765,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/element-debt-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Madison Throop Place</title>
-      <link>https://www.northmarq.com/transactions/madison-throop-place-debt-permanent-loan-fixed-debt-equity-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Chicago, IL — $27,079,500</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/madison-throop-place-debt-permanent-loan-fixed-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 60 Bay Street</title>
-      <link>https://www.northmarq.com/transactions/60-bay-street-debt-permanent-loan-fixed-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed — Staten Island, NY — $9,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/60-bay-street-debt-permanent-loan-fixed-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Sterling Pointe</title>
@@ -646,18 +622,35 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Northmarq] Tradewinds at Hobe Sound</title>
+      <link>https://www.northmarq.com/transactions/tradewinds-hobe-sound-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Hobe Sound, FL — $36,400,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/tradewinds-hobe-sound-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Bronx Multi-Tenant Storefront Retail</title>
+      <link>https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Bronx, NY — $5,450,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Springs at Weber Road</title>
+      <link>https://www.northmarq.com/transactions/springs-weber-road-sale-2026-03</link>
+      <description>Sale — Romeoville, IL — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/springs-weber-road-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Colliers] Colliers Brings Capitol Crossing Ind/Flex Asset to Market in Concord</title>
       <link>https://www.colliers.com/en/news/new-hampshire/colliers-brings-capitol-crossing-industrial-flex-asset-to-market-in-concord</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/colliers-brings-capitol-crossing-industrial-flex-asset-to-market-in-concord</guid>
       <category>Colliers</category>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers facilitates $360M sale of former titanium dioxide site in Taiwan</title>
-      <link>https://www.colliers.com/en/news/richmond/colliers-facilitates-sale-of-former-titanium-dioxide-site-in-taiwan</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/richmond/colliers-facilitates-sale-of-former-titanium-dioxide-site-in-taiwan</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers facilitates sale of industrial investment property in Stafford, Texas</title>
@@ -672,6 +665,13 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/clearwater-fl-industrial-portfolio-sells-for-23-5-million</guid>
       <category>Colliers</category>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Robbins of Colliers Facilitates Sale of 5-Unit Multifamily Property in Nashua, NH</title>
+      <link>https://www.colliers.com/en/news/new-hampshire/robbins-of-colliers-facilitates-sale-of-5-unit--multifamily-property-in-nashua</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/robbins-of-colliers-facilitates-sale-of-5-unit--multifamily-property-in-nashua</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
