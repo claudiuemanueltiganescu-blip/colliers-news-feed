@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 18:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 20:10:35 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -646,20 +646,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Robbins of Colliers Facilitates Sale of 5-Unit Multifamily Property in Nashua, NH</title>
-      <link>https://www.colliers.com/en/news/new-hampshire/robbins-of-colliers-facilitates-sale-of-5-unit--multifamily-property-in-nashua</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/new-hampshire/robbins-of-colliers-facilitates-sale-of-5-unit--multifamily-property-in-nashua</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Colliers Facilitates $30 Million Sale of Meadowlark Industrial Center in Portland’s Sunset Corridor</title>
-      <link>https://www.colliers.com/en/news/portland/meadowlark-industrial-property</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/portland/meadowlark-industrial-property</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] The Phoenix CRE Brief May 21, 2026 - A brief summary of commercial real estate activity in the Phoenix Metro</title>
       <link>https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-21-2026</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/phoenix/the-phoenix-cre-brief-may-21-2026</guid>
@@ -670,6 +656,20 @@
       <title>[Colliers] Colliers completes sale of 321,000-square-foot office building in Kansas City</title>
       <link>https://www.colliers.com/en/news/kansas-city/colliers-and-2323-grand-boulevard</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/colliers-and-2323-grand-boulevard</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Brokers $140 Million Sale of 1.6M SF Industrial Facility in Cookeville, Tennessee</title>
+      <link>https://www.colliers.com/en/news/tulsa/colliers-brokers-140-million-sale-of-1-6m-sf-industrial-facility-in-cookeville-tennessee</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/tulsa/colliers-brokers-140-million-sale-of-1-6m-sf-industrial-facility-in-cookeville-tennessee</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Value-Add Investor Acquires South Park’s Oviatt Apartments for ±$10 million</title>
+      <link>https://www.colliers.com/en/news/los-angeles/value-add-investor-acquires-south-parks-oviatt-apartments-for-10-million</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/value-add-investor-acquires-south-parks-oviatt-apartments-for-10-million</guid>
       <category>Colliers</category>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
