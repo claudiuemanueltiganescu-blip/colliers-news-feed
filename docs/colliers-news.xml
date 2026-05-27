@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 16:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:33:00 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -28,14 +28,6 @@
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Sterling Pointe</title>
-      <link>https://www.northmarq.com/transactions/sterling-pointe-sale-2025-12</link>
-      <description>Sale — Winston-Salem, NC — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/sterling-pointe-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Camson Properties</title>
@@ -646,23 +638,31 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Brokers $140 Million Sale of 1.6M SF Industrial Facility in Cookeville, Tennessee</title>
-      <link>https://www.colliers.com/en/news/tulsa/colliers-brokers-140-million-sale-of-1-6m-sf-industrial-facility-in-cookeville-tennessee</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/tulsa/colliers-brokers-140-million-sale-of-1-6m-sf-industrial-facility-in-cookeville-tennessee</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Value-Add Investor Acquires South Park’s Oviatt Apartments for ±$10 million</title>
-      <link>https://www.colliers.com/en/news/los-angeles/value-add-investor-acquires-south-parks-oviatt-apartments-for-10-million</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/los-angeles/value-add-investor-acquires-south-parks-oviatt-apartments-for-10-million</guid>
-      <category>Colliers</category>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Radford Place</title>
+      <link>https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Sale — Dubuque, IA — $14,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers strengthens Philadelphia team with appointment of Senior Vice President</title>
       <link>https://www.colliers.com/en/news/philadelphia/colliers-strengthens-philadelphia-team-with-appointment-of-senior-vice-president</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/philadelphia/colliers-strengthens-philadelphia-team-with-appointment-of-senior-vice-president</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates sale of retail center in Jacksonville, FL, for $11.2 million</title>
+      <link>https://www.colliers.com/en/news/jacksonville/colliers-facilitates-sale-of-retail-center-in-jacksonville-fl-for-112-million</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/jacksonville/colliers-facilitates-sale-of-retail-center-in-jacksonville-fl-for-112-million</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates sale of retail center in Jacksonville, FL, for $11.2 million</title>
+      <link>https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-retail-center-in-jacksonville-fl-for-11-2-million</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-retail-center-in-jacksonville-fl-for-11-2-million</guid>
       <category>Colliers</category>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
