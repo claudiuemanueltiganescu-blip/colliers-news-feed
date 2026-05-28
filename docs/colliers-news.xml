@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 19:44:34 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -646,16 +646,16 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Sacramento Heavy Hitters 2025</title>
-      <link>https://www.colliers.com/en/news/sacramento/pr-heavy-hitters-2025</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/sacramento/pr-heavy-hitters-2025</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Colliers Kansas City strengthens REMS platform with strategic new hire</title>
       <link>https://www.colliers.com/en/news/kansas-city/colliers-kansas-city-strengthens-rems-platform-with-strategic-new-hire</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/colliers-kansas-city-strengthens-rems-platform-with-strategic-new-hire</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Industrial Building Sold in Manchester</title>
+      <link>https://www.colliers.com/en/news/hartford/industrial-building-sold-in-manchester-may-2026</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/hartford/industrial-building-sold-in-manchester-may-2026</guid>
       <category>Colliers</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -667,7 +667,7 @@
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] .</title>
+      <title>[Colliers] Two Senior Marketing Coordinators advance at Colliers in Columbia</title>
       <link>https://www.colliers.com/en/news/columbia-sc/two-senior-marketing-coordinators-advance-at-colliers-in-columbia</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/two-senior-marketing-coordinators-advance-at-colliers-in-columbia</guid>
       <category>Colliers</category>
