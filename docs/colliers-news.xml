@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 21:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 23:09:21 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -644,34 +644,6 @@
       <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Multifamily developer acquires Pasco site for $5 million for apartment project</title>
-      <link>https://www.colliers.com/en/news/tampa-bay/multifamily-developer-acquires-pasco-site-for-5-million-for-apartment-project</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/multifamily-developer-acquires-pasco-site-for-5-million-for-apartment-project</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Two Senior Marketing Coordinators advance at Colliers in Columbia</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/two-senior-marketing-coordinators-advance-at-colliers-in-columbia</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/two-senior-marketing-coordinators-advance-at-colliers-in-columbia</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Dan Puntil Inducted into NAIOP Hall of Fame</title>
-      <link>https://www.colliers.com/en/news/pittsburgh/dan-puntil-hall-of-fame-induction</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/dan-puntil-hall-of-fame-induction</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Hayden Ponder joins Colliers as Marketing Assistant in Greenville</title>
-      <link>https://www.colliers.com/en/news/greenville/hayden-ponder-joins-colliers-as--marketing-assistant-in-greenville</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/hayden-ponder-joins-colliers-as--marketing-assistant-in-greenville</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
