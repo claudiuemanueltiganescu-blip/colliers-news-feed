@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:04:09 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -646,20 +646,6 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers Kansas City strengthens REMS platform with strategic new hire</title>
-      <link>https://www.colliers.com/en/news/kansas-city/colliers-kansas-city-strengthens-rems-platform-with-strategic-new-hire</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/kansas-city/colliers-kansas-city-strengthens-rems-platform-with-strategic-new-hire</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Industrial Building Sold in Manchester</title>
-      <link>https://www.colliers.com/en/news/hartford/industrial-building-sold-in-manchester-may-2026</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/hartford/industrial-building-sold-in-manchester-may-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Multifamily developer acquires Pasco site for $5 million for apartment project</title>
       <link>https://www.colliers.com/en/news/tampa-bay/multifamily-developer-acquires-pasco-site-for-5-million-for-apartment-project</link>
       <guid isPermaLink="false">https://www.colliers.com/en/news/tampa-bay/multifamily-developer-acquires-pasco-site-for-5-million-for-apartment-project</guid>
@@ -672,6 +658,20 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/two-senior-marketing-coordinators-advance-at-colliers-in-columbia</guid>
       <category>Colliers</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Dan Puntil Inducted into NAIOP Hall of Fame</title>
+      <link>https://www.colliers.com/en/news/pittsburgh/dan-puntil-hall-of-fame-induction</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/pittsburgh/dan-puntil-hall-of-fame-induction</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Hayden Ponder joins Colliers as Marketing Assistant in Greenville</title>
+      <link>https://www.colliers.com/en/news/greenville/hayden-ponder-joins-colliers-as--marketing-assistant-in-greenville</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/greenville/hayden-ponder-joins-colliers-as--marketing-assistant-in-greenville</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
