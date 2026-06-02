@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:54:19 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -644,6 +644,13 @@
       <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers completes sale of Downtown Columbia office building</title>
+      <link>https://www.colliers.com/en/news/columbia-sc/colliers-completes-sale-of-downtown-columbia-office-building</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-completes-sale-of-downtown-columbia-office-building</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
