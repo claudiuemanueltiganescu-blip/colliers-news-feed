@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 12:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:17:13 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Southern Idaho Industrial Park</title>
       <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
@@ -644,6 +644,13 @@
       <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers facilitates sale of Orlando retail center for $25.1 million</title>
+      <link>https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-orlando-retail-center-for-25-1-million</link>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-orlando-retail-center-for-25-1-million</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Colliers completes sale of Downtown Columbia office building</title>
