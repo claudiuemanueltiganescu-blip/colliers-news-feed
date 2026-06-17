@@ -3,119 +3,17 @@
   <channel>
     <title>Colliers + Northmarq (unofficial)</title>
     <link>https://www.colliers.com/en/countries/united-states/commercial-real-estate-news</link>
-    <description>Unofficial combined feed: Colliers top News section + Northmarq recent transactions.</description>
+    <description>Unofficial combined feed: Colliers news/research + Northmarq recent transactions.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 06:56:13 +0000</lastBuildDate>
-    <item>
-      <title>[Northmarq] Southern Idaho Industrial Park</title>
-      <link>https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</link>
-      <description>Debt, Construction Loan, Permanent Loan - Fixed, Debt &amp; Equity — Southern, ID — $15,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/southern-idaho-industrial-park-debt-construction-loan-permanent-loan-fixed-debt-equity</guid>
-      <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Valere Apts</title>
-      <link>https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</link>
-      <description>Sale — Clarksville, TN — $4,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01-0</guid>
-      <category>Northmarq</category>
-    </item>
+    <lastBuildDate>Wed, 17 Jun 2026 05:02:00 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Camson Properties</title>
-      <link>https://www.northmarq.com/transactions/camson-properties-equity-sale-2025-12</link>
-      <description>Equity, Sale — Lawrence, KS — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/camson-properties-equity-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 2729 Bristol</title>
-      <link>https://www.northmarq.com/transactions/2729-bristol-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Costa Mesa, CA — $3,750,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/2729-bristol-debt-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Casa Blanca Apts</title>
-      <link>https://www.northmarq.com/transactions/casa-blanca-apts-sale-2025-12</link>
-      <description>Sale — Fresno, CA — $8,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/casa-blanca-apts-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] The Allure at 57</title>
-      <link>https://www.northmarq.com/transactions/allure-57-debt-debt-equity-2025-12</link>
-      <description>Debt, Debt &amp; Equity — Norwalk, IA — $9,704,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/allure-57-debt-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Alta Tierra</title>
-      <link>https://www.northmarq.com/transactions/alta-tierra-debt-permanent-loan-fixed-debt-equity-sale-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Las Cruces, NM — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/alta-tierra-debt-permanent-loan-fixed-debt-equity-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Brooklyn Apartments</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-apartments-debt-permanent-loan-fixed-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,425,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-apartments-debt-permanent-loan-fixed-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Brooklyn Mid-Rise Apartments</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-mid-rise-apartments-debt-permanent-loan-fixed-2025-12</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-mid-rise-apartments-debt-permanent-loan-fixed-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Kannapolis Portfolio</title>
-      <link>https://www.northmarq.com/transactions/kannapolis-portfolio-sale-2025-12</link>
-      <description>Sale — Kannapolis, NC — $5,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/kannapolis-portfolio-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Nu Westley</title>
-      <link>https://www.northmarq.com/transactions/nu-westley-sale-2025-12</link>
-      <description>Sale — Charlotte, NC — $8,750,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/nu-westley-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Murrieta Town Center</title>
-      <link>https://www.northmarq.com/transactions/murrieta-town-center-debt-bridge-loan-sale-2025-12</link>
-      <description>Debt, Bridge Loan, Sale — Murrieta, CA — $65,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/murrieta-town-center-debt-bridge-loan-sale-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 15 W. Rittenhouse Street</title>
-      <link>https://www.northmarq.com/transactions/15-w-rittenhouse-street-debt-2025-12</link>
-      <description>Debt — Philadelphia, PA — $5,250,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/15-w-rittenhouse-street-debt-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Knott Townhouses</title>
@@ -646,18 +544,172 @@
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers facilitates sale of Orlando retail center for $25.1 million</title>
-      <link>https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-orlando-retail-center-for-25-1-million</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/orlando/colliers-facilitates-sale-of-orlando-retail-center-for-25-1-million</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Camden Crossing</title>
+      <link>https://www.northmarq.com/transactions/camden-crossing-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Fort Worth MSA, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/camden-crossing-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers completes sale of Downtown Columbia office building</title>
-      <link>https://www.colliers.com/en/news/columbia-sc/colliers-completes-sale-of-downtown-columbia-office-building</link>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/columbia-sc/colliers-completes-sale-of-downtown-columbia-office-building</guid>
+      <title>[Northmarq] Brooklyn Office Building</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $8,725,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Low-Rise Apartments</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-low-rise-apartments-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,250,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-low-rise-apartments-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 8th &amp; University Apartments</title>
+      <link>https://www.northmarq.com/transactions/8th-university-apartments-debt-bridge-loan-debt-equity-2026-04</link>
+      <description>Debt, Bridge Loan, Debt &amp; Equity — San Diego, CA — $26,750,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/8th-university-apartments-debt-bridge-loan-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Evolve Wynwood 35</title>
+      <link>https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Miami, FL — $48,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Smithtown Self Storage Facility</title>
+      <link>https://www.northmarq.com/transactions/smithtown-self-storage-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Smithtown, NY — $8,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/smithtown-self-storage-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 19801 S Santa Fe</title>
+      <link>https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Rancho Dominguez, CA — $15,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Industrial Portfolio</title>
+      <link>https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity, Equity — Newport Beach, CA — $52,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Manhasset Retail Building</title>
+      <link>https://www.northmarq.com/transactions/manhasset-retail-building-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Manhasset, NY — $3,050,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/manhasset-retail-building-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Casa Loma</title>
+      <link>https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Sante Fe, NM — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Chelsea Apartments</title>
+      <link>https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Santa Monica, CA — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Hampton Road Duplexes</title>
+      <link>https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Dallas, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Multifamily Community</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,375,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | April 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-april-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-april-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-april-2026</guid>
       <category>Colliers</category>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Global Capital Flows | Q1 2026</title>
+      <link>https://www.colliers.com/en/research/global-capital-flows-q1-2026</link>
+      <description>https://www.colliers.com/en/research/global-capital-flows-q1-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/global-capital-flows-q1-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] The Power Problem: A Q&amp;A with Mark McComiskey of AVAIO Digital on Delivering Capacity in a Power-Constrained World</title>
+      <link>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</link>
+      <description>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Multifamily Enters a Rebalancing Phase​</title>
+      <link>https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</link>
+      <description>https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] State of the Industry Report | May 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-may-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-may-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-may-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Demand Shifts, Pricing Pressure and Emerging Opportunities</title>
+      <link>https://www.colliers.com/en/research/nrep-ushsp-hospitality-outlook-report-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-ushsp-hospitality-outlook-report-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-ushsp-hospitality-outlook-report-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Top 25 Industrial Markets Set the Pace for the Next Phase of Growth</title>
+      <link>https://www.colliers.com/en/research/nrep-usind-top-25-industrial-markets-june-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usind-top-25-industrial-markets-june-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-top-25-industrial-markets-june-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers Combines U.S. Leasing Platform Under Jodie Poirier ’s Leadership</title>
+      <link>https://www.colliers.com/en/news/colliers-combines-us-leasing-platform-under-jodie-poirier</link>
+      <description>https://www.colliers.com/en/news/colliers-combines-us-leasing-platform-under-jodie-poirier</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-combines-us-leasing-platform-under-jodie-poirier</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
