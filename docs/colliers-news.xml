@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 14:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:23:32 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Knott Townhouses</title>
-      <link>https://www.northmarq.com/transactions/knott-townhouses-permanent-loan-fixed-debt-equity-2025-12</link>
-      <description>Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $6,375,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/knott-townhouses-permanent-loan-fixed-debt-equity-2025-12</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Dec 2025 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Valere Apartments</title>
-      <link>https://www.northmarq.com/transactions/valere-apartments-sale-2026-01</link>
-      <description>Sale — Clarksville, TN — $4,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/valere-apartments-sale-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] North Street Shopping Center</title>
@@ -644,6 +628,22 @@
       <link>https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</link>
       <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,375,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Heritage Square Apartments</title>
+      <link>https://www.northmarq.com/transactions/heritage-square-apartments-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Matawan, NJ — $6,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/heritage-square-apartments-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Castle Rock Industrial at The Meadows</title>
+      <link>https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Castle Rock, CO — $20,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
