@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 02:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:27:31 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Palm Bay Area Office Buildings</title>
-      <link>https://www.northmarq.com/transactions/palm-bay-area-office-buildings-debt-permanent-loan-fixed-debt-equity-2026-01</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Palm Bay, FL — $6,250,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/palm-bay-area-office-buildings-debt-permanent-loan-fixed-debt-equity-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Fisherman's Cove RV Park</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/elmington-park-flats-sale-2026-05</link>
       <description>Sale — Nashville, TN — $4,860,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/elmington-park-flats-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Sunset Sands Apts</title>
+      <link>https://www.northmarq.com/transactions/sunset-sands-apartments-sale-2026-05</link>
+      <description>Sale — Fresno, CA — $10,950,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/sunset-sands-apartments-sale-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
