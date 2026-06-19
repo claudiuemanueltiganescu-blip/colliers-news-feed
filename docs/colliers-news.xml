@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:34:05 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 1201 East 119th Street</title>
-      <link>https://www.northmarq.com/transactions/1201-east-119th-street-debt-construction-loan-debt-equity-2026-01</link>
-      <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $15,900,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/1201-east-119th-street-debt-construction-loan-debt-equity-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] CINQ &amp; LUMA Apts</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/fairmount-1502-flats-debt-2026-05</link>
       <description>Debt — Philadelphia, PA — $6,724,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/fairmount-1502-flats-debt-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 643-645 N. 15th St. Apts</title>
+      <link>https://www.northmarq.com/transactions/643-645-n-15th-st-apts-debt-permanent-loan-fixed-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed — Philadelphia, PA — $1,950,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/643-645-n-15th-st-apts-debt-permanent-loan-fixed-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
