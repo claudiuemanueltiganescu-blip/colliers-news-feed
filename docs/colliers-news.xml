@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:13:07 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -648,14 +648,6 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Global Capital Flows | Q1 2026</title>
-      <link>https://www.colliers.com/en/research/global-capital-flows-q1-2026</link>
-      <description>https://www.colliers.com/en/research/global-capital-flows-q1-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/global-capital-flows-q1-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] The Power Problem: A Q&amp;A with Mark McComiskey of AVAIO Digital on Delivering Capacity in a Power-Constrained World</title>
       <link>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</link>
       <description>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</description>
@@ -708,6 +700,14 @@
       <link>https://www.colliers.com/en/news/colliers-us-names-new-atlanta-brokerage-market-leader</link>
       <description>https://www.colliers.com/en/news/colliers-us-names-new-atlanta-brokerage-market-leader</description>
       <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-us-names-new-atlanta-brokerage-market-leader</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | May 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-may-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-may-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-may-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
