@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 19:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:50:53 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Bronx Apartment Community</title>
-      <link>https://www.northmarq.com/transactions/bronx-apartment-community-debt-permanent-loan-fixed-2026-01</link>
-      <description>Debt, Permanent Loan - Fixed — Bronx, NY — $4,200,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-apartment-community-debt-permanent-loan-fixed-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] 915 Ariana</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/reserve-knolls-sale-2026-05</link>
       <description>Sale — Omaha, NE — $26,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-knolls-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Fairway Industrial Park</title>
+      <link>https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</link>
+      <description>Debt — Sarasota, FL — $13,350,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
