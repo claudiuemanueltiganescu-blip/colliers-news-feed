@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:06:59 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 915 Ariana</title>
-      <link>https://www.northmarq.com/transactions/915-ariana-debt-permanent-loan-fixed-2026-01</link>
-      <description>Debt, Permanent Loan - Fixed — Lakeland, FL — $6,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/915-ariana-debt-permanent-loan-fixed-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] UIUC Student Housing Portfolio</title>
@@ -648,12 +640,12 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] The Power Problem: A Q&amp;A with Mark McComiskey of AVAIO Digital on Delivering Capacity in a Power-Constrained World</title>
-      <link>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</link>
-      <description>https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-avaio-digital-qa-26q2</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Madison Business Park</title>
+      <link>https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Tampa, FL — $12,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] U.S. Multifamily Enters a Rebalancing Phase​</title>
@@ -710,6 +702,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-may-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers appoints Giles Wrench as Head of U.S. Enterprise Client Solutions</title>
+      <link>https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</link>
+      <description>https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
