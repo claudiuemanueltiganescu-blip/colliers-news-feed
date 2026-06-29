@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 20:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:44:58 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
       <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Preston Ridge</title>
-      <link>https://www.northmarq.com/transactions/preston-ridge-sale-2026-01</link>
-      <description>Sale — Hickory, NC — $71,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/preston-ridge-sale-2026-01</guid>
-      <category>Northmarq</category>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Vero Beach Kamp</title>
@@ -648,12 +640,12 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] U.S. Multifamily Enters a Rebalancing Phase​</title>
-      <link>https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</link>
-      <description>https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-uscm-usmf-colliers-capital-markets-multifamily-report-2026-q1</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] The Gallery Apartments</title>
+      <link>https://www.northmarq.com/transactions/gallery-apartments-debt-permanent-loan-fixed-debt-equity-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Springville, UT — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/gallery-apartments-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] State of the Industry Report | May 2026</title>
@@ -710,6 +702,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</guid>
       <category>Colliers</category>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Portfolio Optimization &amp; Enhanced Strategy Creating Destinations</title>
+      <link>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-research-report-2026-q2</link>
+      <description>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-research-report-2026-q2</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-ushc-us-healthcare-research-report-2026-q2</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
