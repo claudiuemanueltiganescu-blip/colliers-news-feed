@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:04:50 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -432,6 +432,14 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>[Northmarq] The Reserve at Jacksonville Commons</title>
+      <link>https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</link>
+      <description>Sale — Jacksonville, NC — $54,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>[Northmarq] 643-645 N. 15th St. Apts</title>
       <link>https://www.northmarq.com/transactions/643-645-n-15th-st-apts-debt-permanent-loan-fixed-2026-05</link>
       <description>Debt, Permanent Loan - Fixed — Philadelphia, PA — $1,950,000</description>
@@ -464,14 +472,6 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] The Reserve at Jacksonville Commons</title>
-      <link>https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</link>
-      <description>Sale — Jacksonville, NC — $54,200,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Greenway Heights</title>
       <link>https://www.northmarq.com/transactions/greenway-heights-debt-permanent-loan-fixed-debt-equity-2026-05</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Minneapolis, MN — $3,400,000</description>
@@ -496,18 +496,18 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Fairway Industrial Park</title>
-      <link>https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</link>
-      <description>Debt — Sarasota, FL — $13,350,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Madison Business Park</title>
       <link>https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Tampa, FL — $12,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Fairway Industrial Park</title>
+      <link>https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</link>
+      <description>Debt — Sarasota, FL — $13,350,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
@@ -616,18 +616,18 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Philadelphia Multifamily Properties</title>
-      <link>https://www.northmarq.com/transactions/philadelphia-multifamily-properties-debt-permanent-loan-fixed-debt-equity-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Philadelphia, PA — $2,125,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/philadelphia-multifamily-properties-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] 405 Alberto Way</title>
       <link>https://www.northmarq.com/transactions/405-alberto-acquisition-debt-equity-2026-05</link>
       <description>Debt &amp; Equity — Los Gatos, CA — $11,250,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/405-alberto-acquisition-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Philadelphia Multifamily Properties</title>
+      <link>https://www.northmarq.com/transactions/philadelphia-multifamily-properties-debt-permanent-loan-fixed-debt-equity-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Philadelphia, PA — $2,125,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/philadelphia-multifamily-properties-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
