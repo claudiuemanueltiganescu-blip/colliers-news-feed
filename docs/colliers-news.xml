@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 11:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:02:02 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -21,22 +21,6 @@
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Merritt Manor</title>
-      <link>https://www.northmarq.com/transactions/merritt-manor-sale-2026-02</link>
-      <description>Sale — Olympia, WA — $19,550,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/merritt-manor-sale-2026-02</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Eastline Residences</title>
-      <link>https://www.northmarq.com/transactions/eastline-residences-sale-2026-02</link>
-      <description>Sale — Dallas, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/eastline-residences-sale-2026-02</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Westminster &amp; Prairie Oaks</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Gardena, CA — $4,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 4752 S Main</title>
+      <link>https://www.northmarq.com/transactions/4752-s-main-debt-equity-2026-06</link>
+      <description>Debt &amp; Equity — Los Angeles, CA — $13,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/4752-s-main-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Kohl's</title>
+      <link>https://www.northmarq.com/transactions/kohls-sale-2026-06</link>
+      <description>Sale — Chicago, IL — $26,250,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/kohls-sale-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
