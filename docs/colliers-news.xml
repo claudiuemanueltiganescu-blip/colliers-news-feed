@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 15:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:30:01 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -21,22 +21,6 @@
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Westminster &amp; Prairie Oaks</title>
-      <link>https://www.northmarq.com/transactions/westminster-prairie-oaks-sale-2026-02</link>
-      <description>Sale — Madison, WI — $10,700,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/westminster-prairie-oaks-sale-2026-02</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Independence Place</title>
-      <link>https://www.northmarq.com/transactions/independence-place-sale-2026-02</link>
-      <description>Sale — Prince George, VA — $39,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/independence-place-sale-2026-02</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] 81-97 Ferris Street</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/kohls-sale-2026-06</link>
       <description>Sale — Chicago, IL — $26,250,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/kohls-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Greenhouse</title>
+      <link>https://www.northmarq.com/transactions/greenhouse-sale-2026-06</link>
+      <description>Sale — Harrisonburg, VA — $5,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/greenhouse-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Cosgrove</title>
+      <link>https://www.northmarq.com/transactions/cosgrove-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Omaha, NE — $21,600,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/cosgrove-debt-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
