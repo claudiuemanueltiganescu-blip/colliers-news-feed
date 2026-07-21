@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:10:37 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -21,22 +21,6 @@
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 13590 Vaughn St.</title>
-      <link>https://www.northmarq.com/transactions/13590-vaughn-st-debt-2026-03</link>
-      <description>Debt — San Fernando, CA — $2,400,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/13590-vaughn-st-debt-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Brooklyn Garden-Style Apartments</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-garden-style-apartments-debt-permanent-loan-fixed-2026-03</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,400,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-garden-style-apartments-debt-permanent-loan-fixed-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Laurel View</title>
@@ -75,6 +59,14 @@
       <link>https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</link>
       <description>Debt, Debt &amp; Equity, Equity — Omaha, NE — $45,600,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Loftin Place</title>
+      <link>https://www.northmarq.com/transactions/loftin-place-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — West Palm Beach, FL — $56,650,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/loftin-place-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
       <category>Northmarq</category>
       <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/riverwood-apts-sale-2026-06</link>
       <description>Sale — Lansing, IL — $28,600,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/riverwood-apts-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Henderson Pointe</title>
+      <link>https://www.northmarq.com/transactions/henderson-pointe-debt-equity-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Equity — Henderson, NC — $11,700,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/henderson-pointe-debt-equity-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
