@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:20:43 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -647,14 +647,6 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers appoints Giles Wrench as Head of U.S. Enterprise Client Solutions</title>
-      <link>https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</link>
-      <description>https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-appoints-giles-wrench-head-of-us-enterprise-client-solutions</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Portfolio Optimization &amp; Enhanced Strategy Creating Destinations</title>
       <link>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-research-report-2026-q2</link>
       <description>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-research-report-2026-q2</description>
@@ -701,6 +693,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-leading-office-markets-2026-q2</guid>
       <category>Colliers</category>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Gil Borok Featured on CNBC’s "Property Play"</title>
+      <link>https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</link>
+      <description>https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | June 2026</title>
