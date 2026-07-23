@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 16:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:36:56 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] Champions Gate</title>
       <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
@@ -647,14 +647,6 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Retail Demand Rebounds as Tight Supply Continues to Support Market Fundamentals</title>
-      <link>https://www.colliers.com/en/research/nrep-usret-us-retail-market-statistics-2026-q2</link>
-      <description>https://www.colliers.com/en/research/nrep-usret-us-retail-market-statistics-2026-q2</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retail-market-statistics-2026-q2</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] U.S. Office Recovery Builds Momentum as Demand Persists and Vacancy Declines</title>
       <link>https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-2026-q2</link>
       <description>https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-2026-q2</description>
@@ -701,6 +693,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-june-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Industrial Outlook Market Research Report | Q2 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Transforming corporate real estate from a decentralized to centralized model</title>
