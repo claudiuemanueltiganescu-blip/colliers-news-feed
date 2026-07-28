@@ -7,13 +7,364 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 20:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:16:27 +0000</lastBuildDate>
+    <item>
+      <title>[Northmarq] Champions Gate</title>
+      <link>https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</link>
+      <description>Debt, Permanent Loan - Fixed — Davenport, FL — $5,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/champions-gate-debt-permanent-loan-fixed-2026-03-0</guid>
+      <category>Northmarq</category>
+    </item>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
+    </item>
+    <item>
+      <title>[Northmarq] Eagle Run</title>
+      <link>https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Equity — Omaha, NE — $45,600,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/eagle-run-debt-debt-equity-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Loftin Place</title>
+      <link>https://www.northmarq.com/transactions/loftin-place-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — West Palm Beach, FL — $56,650,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/loftin-place-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Central 7 Commerce Center</title>
+      <link>https://www.northmarq.com/transactions/central-7-commerce-center-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Las Vegas, NV — $53,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/central-7-commerce-center-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Evolve New Hope Farm</title>
+      <link>https://www.northmarq.com/transactions/evolve-new-hope-farm-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Wellford, SC — $41,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/evolve-new-hope-farm-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Georgia MHC Portfolio</title>
+      <link>https://www.northmarq.com/transactions/georgia-mhc-portfolio-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — Atlanta, GA — $14,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/georgia-mhc-portfolio-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Douglas Terrace</title>
+      <link>https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Sale — Racine, WI — $23,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Reside on Barry</title>
+      <link>https://www.northmarq.com/transactions/reside-barry-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Chicago, IL — $45,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/reside-barry-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Koreatown Portfolio</title>
+      <link>https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</link>
+      <description>Sale — Los Angeles, CA — $14,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Merchants Exchange</title>
+      <link>https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</link>
+      <description>Debt &amp; Equity — San Fransisco, CA — $50,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Towers at Cupertino City Center</title>
+      <link>https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Cupertino, CA — $145,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Crescent Park</title>
+      <link>https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Riverview, FL — $6,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Jefferson Block Apts</title>
+      <link>https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Milwaukee, WI — $38,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Warehouse Central</title>
+      <link>https://www.northmarq.com/transactions/warehouse-central-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Denver, CO — $18,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/warehouse-central-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Price Brothers Credit Facility</title>
+      <link>https://www.northmarq.com/transactions/price-brothers-credit-facility-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Kansas City, MO — $512,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/price-brothers-credit-facility-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Philadelphia Mixed-Use Property</title>
+      <link>https://www.northmarq.com/transactions/philadelphia-mixed-use-property-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Philadelphia, PA — $2,670,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/philadelphia-mixed-use-property-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Tradewinds at Hobe Sound</title>
+      <link>https://www.northmarq.com/transactions/tradewinds-hobe-sound-debt-permanent-loan-fixed-debt-equity-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Hobe Sound, FL — $36,400,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/tradewinds-hobe-sound-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Bronx Multi-Tenant Storefront Retail</title>
+      <link>https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Bronx, NY — $5,450,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Radford Place</title>
+      <link>https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</link>
+      <description>Debt, Debt &amp; Equity, Sale — Dubuque, IA — $14,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Springs at Weber Road</title>
+      <link>https://www.northmarq.com/transactions/springs-weber-road-sale-2026-03</link>
+      <description>Sale — Romeoville, IL — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/springs-weber-road-sale-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Camden Crossing</title>
+      <link>https://www.northmarq.com/transactions/camden-crossing-debt-debt-equity-2026-03</link>
+      <description>Debt, Debt &amp; Equity — Fort Worth MSA, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/camden-crossing-debt-debt-equity-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Office Building</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $8,725,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Low-Rise Apartments</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-low-rise-apartments-debt-permanent-loan-fixed-2026-03</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,250,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-low-rise-apartments-debt-permanent-loan-fixed-2026-03</guid>
+      <category>Northmarq</category>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 8th &amp; University Apartments</title>
+      <link>https://www.northmarq.com/transactions/8th-university-apartments-debt-bridge-loan-debt-equity-2026-04</link>
+      <description>Debt, Bridge Loan, Debt &amp; Equity — San Diego, CA — $26,750,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/8th-university-apartments-debt-bridge-loan-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Evolve Wynwood 35</title>
+      <link>https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Miami, FL — $48,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 19801 S Santa Fe</title>
+      <link>https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Rancho Dominguez, CA — $15,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Smithtown Self Storage Facility</title>
+      <link>https://www.northmarq.com/transactions/smithtown-self-storage-debt-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Smithtown, NY — $8,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/smithtown-self-storage-debt-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Manhasset Retail Building</title>
+      <link>https://www.northmarq.com/transactions/manhasset-retail-building-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Manhasset, NY — $3,050,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/manhasset-retail-building-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Industrial Portfolio</title>
+      <link>https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity, Equity — Newport Beach, CA — $52,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Casa Loma</title>
+      <link>https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Sante Fe, NM — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Chelsea Apartments</title>
+      <link>https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Santa Monica, CA — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Hampton Road Duplexes</title>
+      <link>https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Dallas, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Brooklyn Multifamily Community</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,375,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Heritage Square Apartments</title>
+      <link>https://www.northmarq.com/transactions/heritage-square-apartments-debt-permanent-loan-fixed-2026-04</link>
+      <description>Debt, Permanent Loan - Fixed — Matawan, NJ — $6,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/heritage-square-apartments-debt-permanent-loan-fixed-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Long Island Industrial Portfolio</title>
+      <link>https://www.northmarq.com/transactions/long-island-industrial-portfolio-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Long Island, NY — $35,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/long-island-industrial-portfolio-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Castle Rock Industrial at The Meadows</title>
+      <link>https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</link>
+      <description>Debt, Debt &amp; Equity — Castle Rock, CO — $20,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Elmington Park Flats</title>
+      <link>https://www.northmarq.com/transactions/elmington-park-flats-sale-2026-05</link>
+      <description>Sale — Nashville, TN — $4,860,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/elmington-park-flats-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Sunset Sands Apts</title>
+      <link>https://www.northmarq.com/transactions/sunset-sands-apartments-sale-2026-05</link>
+      <description>Sale — Fresno, CA — $10,950,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/sunset-sands-apartments-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Prairie Market East</title>
+      <link>https://www.northmarq.com/transactions/prairie-market-east-debt-debt-equity-2026-05</link>
+      <description>Debt, Debt &amp; Equity — Oswego, IL — $11,950,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/prairie-market-east-debt-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Reserve at Jacksonville Commons</title>
+      <link>https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</link>
+      <description>Sale — Jacksonville, NC — $54,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 643-645 N. 15th St. Apts</title>
+      <link>https://www.northmarq.com/transactions/643-645-n-15th-st-apts-debt-permanent-loan-fixed-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed — Philadelphia, PA — $1,950,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/643-645-n-15th-st-apts-debt-permanent-loan-fixed-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Fairmount &amp; 1502 Flats</title>
+      <link>https://www.northmarq.com/transactions/fairmount-1502-flats-debt-2026-05</link>
+      <description>Debt — Philadelphia, PA — $6,724,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/fairmount-1502-flats-debt-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Park Place</title>
+      <link>https://www.northmarq.com/transactions/park-place-debt-equity-2026-05</link>
+      <description>Debt, Debt &amp; Equity — Lawrenceville, GA — $32,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/park-place-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Parkview Apts</title>
+      <link>https://www.northmarq.com/transactions/parkview-apartments-sale-2026-05</link>
+      <description>Debt, Debt &amp; Equity, Sale — Lynden, WA — $18,900,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/parkview-apartments-sale-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Greenway Heights</title>
