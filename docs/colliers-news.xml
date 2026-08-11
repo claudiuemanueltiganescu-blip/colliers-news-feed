@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:03:47 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Douglas Terrace</title>
-      <link>https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</link>
-      <description>Debt, Debt &amp; Equity, Sale — Racine, WI — $23,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/douglas-terrace-debt-debt-equity-sale-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Reside on Barry</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Victorville &amp; San Jacinto, CA — $3,105,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Curtis Townhomes Phase II</title>
+      <link>https://www.northmarq.com/transactions/curtis-townhomes-phase-ii-sale-2026-06</link>
+      <description>Sale — Nashville, TN — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/curtis-townhomes-phase-ii-sale-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
