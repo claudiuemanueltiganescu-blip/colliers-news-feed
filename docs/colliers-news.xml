@@ -7,53 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 22:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:00:35 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Koreatown Portfolio</title>
-      <link>https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</link>
-      <description>Sale — Los Angeles, CA — $14,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/koreatown-portfolio-sale-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Merchants Exchange</title>
-      <link>https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</link>
-      <description>Debt &amp; Equity — San Fransisco, CA — $50,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/merchants-exchange-debt-equity-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] The Towers at Cupertino City Center</title>
-      <link>https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</link>
-      <description>Debt, Debt &amp; Equity — Cupertino, CA — $145,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/towers-cupertino-city-center-debt-debt-equity-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Crescent Park</title>
-      <link>https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</link>
-      <description>Debt, Permanent Loan - Fixed — Riverview, FL — $6,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/crescent-park-debt-permanent-loan-fixed-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Jefferson Block Apts</title>
-      <link>https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Milwaukee, WI — $38,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/jefferson-block-apts-debt-permanent-loan-fixed-debt-equity-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Warehouse Central</title>
@@ -644,6 +604,46 @@
       <link>https://www.northmarq.com/transactions/3717-cardiff-avenue-sale-2026-06</link>
       <description>Sale — Los Angeles, CA — $13,125,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/3717-cardiff-avenue-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Arbor Preserve Development Tract</title>
+      <link>https://www.northmarq.com/transactions/arbor-preserve-development-tract-sale-2026-06</link>
+      <description>Sale — Fuquay Varina, NC — $4,750,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/arbor-preserve-development-tract-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Station Lofts</title>
+      <link>https://www.northmarq.com/transactions/station-lofts-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Leavenworth, KS — $14,300,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/station-lofts-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Vinewood Townhomes</title>
+      <link>https://www.northmarq.com/transactions/vinewood-townhomes-sale-2026-06</link>
+      <description>Sale — Gallatin, TN — $6,440,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/vinewood-townhomes-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Lancaster Terrace</title>
+      <link>https://www.northmarq.com/transactions/lancaster-terrace-debt-permanent-loan-fixed-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Boise, ID — $3,750,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/lancaster-terrace-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Premier Tech Center</title>
+      <link>https://www.northmarq.com/transactions/premier-tech-center-debt-permanent-loan-fixed-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Richmond, VA — $6,900,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/premier-tech-center-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
