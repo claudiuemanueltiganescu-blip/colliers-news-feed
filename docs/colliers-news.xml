@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:56:37 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Bronx Multi-Tenant Storefront Retail</title>
-      <link>https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</link>
-      <description>Debt, Permanent Loan - Fixed — Bronx, NY — $5,450,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-multi-tenant-storefront-retail-debt-permanent-loan-fixed-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Radford Place</title>
@@ -648,12 +640,12 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Gil Borok Featured on CNBC’s "Property Play"</title>
-      <link>https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</link>
-      <description>https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/gil-borok-featured-on-cnbc-property-play</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Dossey Oaks and Meadowood II</title>
+      <link>https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed — Lakeland, FL — $8,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | June 2026</title>
@@ -710,6 +702,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-uscm-usdc-capital-markets-data-center-insight-series-q3-2026</guid>
       <category>Colliers</category>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Florida Retail Trends Report | 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-fl-retail-trends-report-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-fl-retail-trends-report-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-fl-retail-trends-report-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
