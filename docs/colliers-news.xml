@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 20:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:40:07 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Radford Place</title>
-      <link>https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</link>
-      <description>Debt, Debt &amp; Equity, Sale — Dubuque, IA — $14,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/radford-place-debt-debt-equity-sale-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Springs at Weber Road</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</link>
       <description>Debt, Permanent Loan - Fixed — Lakeland, FL — $8,800,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Strathmore Commons Shopping Mall</title>
+      <link>https://www.northmarq.com/transactions/strathmore-commons-shopping-mall-debt-equity-2026-06</link>
+      <description>Debt, Debt &amp; Equity — Middle Island, NY — $13,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/strathmore-commons-shopping-mall-debt-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
