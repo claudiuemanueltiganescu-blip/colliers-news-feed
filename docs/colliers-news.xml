@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:52:34 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Brooklyn Office Building</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $8,725,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-office-building-debt-permanent-loan-fixed-2026-03</guid>
-      <category>Northmarq</category>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Brooklyn Low-Rise Apartments</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/shoppes-meadows-debt-permanent-loan-fixed-debt-equity-2026-07</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Lone Tree, CO — $21,100,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/shoppes-meadows-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Pike</title>
+      <link>https://www.northmarq.com/transactions/pike-sale-2026-07</link>
+      <description>Sale — Long Beach, CA — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/pike-sale-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
