@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:42:55 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -648,14 +648,6 @@
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] U.S. Industrial Outlook Market Report | Q2 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q2-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Transforming corporate real estate from a decentralized to centralized model</title>
       <link>https://www.colliers.com/en/research/transforming-corporate-real-estate-from-a-decentralized-to-centralized-model</link>
       <description>https://www.colliers.com/en/research/transforming-corporate-real-estate-from-a-decentralized-to-centralized-model</description>
@@ -710,6 +702,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-july-2026</guid>
       <category>Colliers</category>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] State of the Industry Report | August 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
