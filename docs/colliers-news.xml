@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:43:21 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 19801 S Santa Fe</title>
-      <link>https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</link>
-      <description>Debt, Debt &amp; Equity — Rancho Dominguez, CA — $15,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/19801-s-santa-fe-debt-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Smithtown Self Storage Facility</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</link>
       <description>Debt, Debt &amp; Equity — Las Vegas, NV — $6,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Rise at the Northern</title>
+      <link>https://www.northmarq.com/transactions/rise-northern-sale-2026-07</link>
+      <description>Sale — Phoenix, AZ — $21,700,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/rise-northern-sale-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
