@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:54:12 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Evolve Wynwood 35</title>
-      <link>https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</link>
-      <description>Debt, Debt &amp; Equity — Miami, FL — $48,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/evolve-wynwood-35-debt-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] 19801 S Santa Fe</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Duluth, MN — $25,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Bonanza Square Shopping Center</title>
+      <link>https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</link>
+      <description>Debt, Debt &amp; Equity — Las Vegas, NV — $6,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
