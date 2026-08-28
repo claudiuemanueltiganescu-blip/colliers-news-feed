@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:24:08 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Industrial Portfolio</title>
-      <link>https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</link>
-      <description>Debt, Debt &amp; Equity, Equity — Newport Beach, CA — $52,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/broadwick-street-mission-debt-debt-equity-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Casa Loma</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/4029-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $2,250,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/4029-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 4018 Gelber</title>
+      <link>https://www.northmarq.com/transactions/4018-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $1,485,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/4018-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
