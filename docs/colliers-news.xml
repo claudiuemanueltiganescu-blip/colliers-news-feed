@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 02:11:00 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Casa Loma</title>
-      <link>https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Sante Fe, NM — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/casa-loma-debt-equity-sale-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Chelsea Apartments</title>
-      <link>https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Santa Monica, CA — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/santa-monica-ca-apartments-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Hampton Road Duplexes</title>
@@ -644,6 +628,22 @@
       <link>https://www.northmarq.com/transactions/4018-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $1,485,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/4018-gelber-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Hyperion Residences</title>
+      <link>https://www.northmarq.com/transactions/hyperion-residences-sale-2026-07</link>
+      <description>Sale — Los Angeles, CA — $5,250,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/hyperion-residences-sale-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Elora Flats &amp; Townhomes</title>
+      <link>https://www.northmarq.com/transactions/elora-flats-townhomes-debt-equity-2026-07</link>
+      <description>Debt &amp; Equity — Lawrence, MA — $22,855,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/elora-flats-townhomes-debt-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
