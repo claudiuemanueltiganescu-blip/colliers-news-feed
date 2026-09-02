@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:29:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:42:13 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Hampton Road Duplexes</title>
-      <link>https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Dallas, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/hampton-road-duplexes-debt-permanent-loan-fixed-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Brooklyn Multifamily Community</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/elora-flats-townhomes-debt-equity-2026-07</link>
       <description>Debt &amp; Equity — Lawrence, MA — $22,855,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/elora-flats-townhomes-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Archer Place</title>
+      <link>https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</link>
+      <description>Debt, Construction Loan — Gainesville, FL — $6,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
