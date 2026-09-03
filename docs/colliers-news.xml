@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:38:09 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Brooklyn Multifamily Community</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,375,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-multifamily-community-debt-permanent-loan-fixed-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Heritage Square Apartments</title>
@@ -644,6 +636,14 @@
       <link>https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</link>
       <description>Debt, Construction Loan — Gainesville, FL — $6,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Landings</title>
+      <link>https://www.northmarq.com/transactions/landings-equity-2026-07</link>
+      <description>Debt &amp; Equity, Equity, Preferred Equity — Bethlehem, PA — $97,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/landings-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
