@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:36:18 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
       <description>Debt, Construction Loan, Debt &amp; Equity — Los Angeles, CA — $9,426,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Long Island Industrial Portfolio</title>
-      <link>https://www.northmarq.com/transactions/long-island-industrial-portfolio-debt-equity-2026-04</link>
-      <description>Debt, Debt &amp; Equity — Long Island, NY — $35,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/long-island-industrial-portfolio-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Castle Rock Industrial at The Meadows</title>
-      <link>https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</link>
-      <description>Debt, Debt &amp; Equity — Castle Rock, CO — $20,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/castle-rock-industrial-meadows-debt-equity-2026-04</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Elmington Park Flats</title>
@@ -644,6 +628,22 @@
       <link>https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</link>
       <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Northwoods Apartments</title>
+      <link>https://www.northmarq.com/transactions/northwoods-apartments-debt-equity-2026-07</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Upland, CA — $34,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/northwoods-apartments-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Park at Legacy</title>
+      <link>https://www.northmarq.com/transactions/park-legacy-debt-equity-2026-07</link>
+      <description>Debt &amp; Equity — Plano, TX — $54,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/park-legacy-debt-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
