@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:10:15 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -21,22 +21,6 @@
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Prairie Market East</title>
-      <link>https://www.northmarq.com/transactions/prairie-market-east-debt-debt-equity-2026-05</link>
-      <description>Debt, Debt &amp; Equity — Oswego, IL — $11,950,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/prairie-market-east-debt-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] The Reserve at Jacksonville Commons</title>
-      <link>https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</link>
-      <description>Sale — Jacksonville, NC — $54,200,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-jacksonville-commons-sale-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] 643-645 N. 15th St. Apts</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/atlantic-plaza-debt-debt-equity-2026-07</link>
       <description>Debt, Debt &amp; Equity — Queens, NY — $15,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/atlantic-plaza-debt-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 1923 Gates</title>
+      <link>https://www.northmarq.com/transactions/1923-gates-debt-permanent-loan-fixed-debt-equity-2026-07</link>
+      <description>Debt, Construction Loan, Debt &amp; Equity — Redondo Beach, CA — $5,120,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/1923-gates-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Villages at Lake Silvercote</title>
+      <link>https://www.northmarq.com/transactions/villages-lake-silvercote-sale-2026-07</link>
+      <description>Sale — Wentzville, MO — $70,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/villages-lake-silvercote-sale-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
