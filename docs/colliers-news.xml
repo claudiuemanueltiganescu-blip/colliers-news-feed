@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:57:30 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -21,14 +21,6 @@
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Reserve at the Knolls</title>
-      <link>https://www.northmarq.com/transactions/reserve-knolls-sale-2026-05</link>
-      <description>Sale — Omaha, NE — $26,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/reserve-knolls-sale-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Madison Business Park</title>
@@ -645,6 +637,14 @@
       <guid isPermaLink="false">https://www.northmarq.com/transactions/7655-san-pedro-debt-bridge-loan-construction-loan-debt-equity-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 909 Normandie</title>
+      <link>https://www.northmarq.com/transactions/909-normandie-debt-permanent-loan-fixed-debt-equity-2026-08</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $2,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/909-normandie-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] U.S. Capital Markets | Multifamily Report Q2 2026</title>
