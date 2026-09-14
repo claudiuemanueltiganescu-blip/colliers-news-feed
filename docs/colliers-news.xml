@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 23:51:58 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -21,22 +21,6 @@
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Madison Business Park</title>
-      <link>https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Tampa, FL — $12,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/madison-business-park-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Fairway Industrial Park</title>
-      <link>https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</link>
-      <description>Debt — Sarasota, FL — $13,350,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/fairway-industrial-park-debt-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Cinnamon Ridge Apartments</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/909-normandie-debt-permanent-loan-fixed-debt-equity-2026-08</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Los Angeles, CA — $2,200,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/909-normandie-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 1221-23 N Franklin Street</title>
+      <link>https://www.northmarq.com/transactions/1221-23-n-franklin-street-debt-permanent-loan-fixed-debt-equity-2026-08</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Philadelphia, PA — $1,350,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/1221-23-n-franklin-street-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Sierra Vista Shopping Center</title>
+      <link>https://www.northmarq.com/transactions/sierra-vista-shopping-center-debt-permanent-loan-fixed-debt-equity-2026-08</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Dallas, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/sierra-vista-shopping-center-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
