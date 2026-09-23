@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:58:24 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -55,18 +55,18 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Haven at Palmer Pointe</title>
-      <link>https://www.northmarq.com/transactions/haven-palmer-pointe-debt-permanent-loan-fixed-debt-equity-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Columbia, SC — $14,518,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/haven-palmer-pointe-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Sherwood Glen &amp; Keller Flats</title>
       <link>https://www.northmarq.com/transactions/sherwood-glen-keller-flats-debt-permanent-loan-fixed-debt-equity-2026-05</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Maplewood, MN — $13,540,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/sherwood-glen-keller-flats-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Haven at Palmer Pointe</title>
+      <link>https://www.northmarq.com/transactions/haven-palmer-pointe-debt-permanent-loan-fixed-debt-equity-2026-05</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Columbia, SC — $14,518,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/haven-palmer-pointe-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
@@ -79,18 +79,18 @@
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Kerrville Portfolio</title>
-      <link>https://www.northmarq.com/transactions/kerrville-portfolio-debt-debt-equity-2026-05</link>
-      <description>Debt, Debt &amp; Equity — Kerrville, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/kerrville-portfolio-debt-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Wood River Apartments</title>
       <link>https://www.northmarq.com/transactions/wood-river-apartments-debt-equity-2026-05</link>
       <description>Debt &amp; Equity — Corpus Christi, TX — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/wood-river-apartments-debt-equity-2026-05</guid>
+      <category>Northmarq</category>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Kerrville Portfolio</title>
+      <link>https://www.northmarq.com/transactions/kerrville-portfolio-debt-debt-equity-2026-05</link>
+      <description>Debt, Debt &amp; Equity — Kerrville, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/kerrville-portfolio-debt-debt-equity-2026-05</guid>
       <category>Northmarq</category>
       <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
@@ -159,18 +159,18 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] 344 W 157th Street</title>
-      <link>https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Gardena, CA — $4,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] 4752 S Main</title>
       <link>https://www.northmarq.com/transactions/4752-s-main-debt-equity-2026-06</link>
       <description>Debt &amp; Equity — Los Angeles, CA — $13,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/4752-s-main-debt-equity-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 344 W 157th Street</title>
+      <link>https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Gardena, CA — $4,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/344-w-157th-street-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
@@ -287,14 +287,6 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] SoCal Self-Storage Portfolio</title>
-      <link>https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Victorville &amp; San Jacinto, CA — $3,105,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Curtis Townhomes Phase II</title>
       <link>https://www.northmarq.com/transactions/curtis-townhomes-phase-ii-sale-2026-06</link>
       <description>Sale — Nashville, TN — Undisclosed</description>
@@ -315,6 +307,14 @@
       <link>https://www.northmarq.com/transactions/arbor-preserve-development-tract-sale-2026-06</link>
       <description>Sale — Fuquay Varina, NC — $4,750,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/arbor-preserve-development-tract-sale-2026-06</guid>
+      <category>Northmarq</category>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] SoCal Self-Storage Portfolio</title>
+      <link>https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Victorville &amp; San Jacinto, CA — $3,105,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
       <category>Northmarq</category>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
@@ -431,18 +431,18 @@
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Vintage Acres</title>
-      <link>https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Duluth, MN — $25,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Northmarq] Bonanza Square Shopping Center</title>
       <link>https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</link>
       <description>Debt, Debt &amp; Equity — Las Vegas, NV — $6,500,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/bonanza-square-shopping-center-debt-debt-equity-2026-07</guid>
+      <category>Northmarq</category>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Vintage Acres</title>
+      <link>https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity, Sale — Duluth, MN — $25,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/vintage-acres-debt-permanent-loan-fixed-debt-equity-sale-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
@@ -495,10 +495,10 @@
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Archer Place</title>
-      <link>https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</link>
-      <description>Debt, Construction Loan — Gainesville, FL — $6,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</guid>
+      <title>[Northmarq] Brooklyn Apartment Building</title>
+      <link>https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</link>
+      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
@@ -511,10 +511,10 @@
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Brooklyn Apartment Building</title>
-      <link>https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</link>
-      <description>Debt, Permanent Loan - Fixed — Brooklyn, NY — $2,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/brooklyn-apartment-building-debt-permanent-loan-fixed-2026-07</guid>
+      <title>[Northmarq] Archer Place</title>
+      <link>https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</link>
+      <description>Debt, Construction Loan — Gainesville, FL — $6,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/archer-place-debt-construction-loan-2026-07</guid>
       <category>Northmarq</category>
       <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
@@ -639,10 +639,10 @@
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Northmarq] Francis Property Mgmt Portfolio</title>
-      <link>https://www.northmarq.com/transactions/francis-property-mgmt-portfolio-debt-equity-2026-08</link>
-      <description>Debt &amp; Equity — Houston, TX — $68,760,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/francis-property-mgmt-portfolio-debt-equity-2026-08</guid>
+      <title>[Northmarq] Huntington Office Building</title>
+      <link>https://www.northmarq.com/transactions/huntington-office-building-debt-permanent-loan-fixed-debt-equity-2026-08</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Huntington, NY — $1,175,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/huntington-office-building-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
