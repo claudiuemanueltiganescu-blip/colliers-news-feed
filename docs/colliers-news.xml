@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:22:04 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -21,14 +21,6 @@
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Gallery Apartments</title>
-      <link>https://www.northmarq.com/transactions/gallery-apartments-debt-permanent-loan-fixed-debt-equity-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Springville, UT — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/gallery-apartments-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] The Fairway Apartments</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/huntington-office-building-debt-permanent-loan-fixed-debt-equity-2026-08</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Huntington, NY — $1,175,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/huntington-office-building-debt-permanent-loan-fixed-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Jeff on 10th</title>
+      <link>https://www.northmarq.com/transactions/jeff-10th-debt-equity-sale-2026-08</link>
+      <description>Debt, Equity, Sale — Jefferson, IN — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/jeff-10th-debt-equity-sale-2026-08</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
