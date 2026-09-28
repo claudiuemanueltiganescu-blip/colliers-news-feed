@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:27:03 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 5637 S. Broadway</title>
       <link>https://www.northmarq.com/transactions/5637-s-broadway-debt-construction-loan-debt-equity-0</link>
@@ -21,14 +21,6 @@
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Sherwood Glen &amp; Keller Flats</title>
-      <link>https://www.northmarq.com/transactions/sherwood-glen-keller-flats-debt-permanent-loan-fixed-debt-equity-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Maplewood, MN — $13,540,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/sherwood-glen-keller-flats-debt-permanent-loan-fixed-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Haven at Palmer Pointe</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/holmes-sale-2026-08</link>
       <description>Sale — Kansas City, MO — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/holmes-sale-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The Mill Residences</title>
+      <link>https://www.northmarq.com/transactions/mill-residences-debt-debt-equity-2026-08</link>
+      <description>Debt, Debt &amp; Equity — Houston, TX — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/mill-residences-debt-debt-equity-2026-08</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
