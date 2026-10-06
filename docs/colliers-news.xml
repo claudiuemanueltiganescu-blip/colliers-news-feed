@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 07:34:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:11:37 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -648,22 +648,6 @@
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | July 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-july-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-july-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-july-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] State of the Industry Report | August 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-colliers-supply-chain-solutions-report-august-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] World Cup Impact Report | August 2026</title>
       <link>https://www.colliers.com/en/research/nrep-usret-world-cup-impact-report-august-2026</link>
       <description>https://www.colliers.com/en/research/nrep-usret-world-cup-impact-report-august-2026</description>
@@ -710,6 +694,22 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-august-2026</guid>
       <category>Colliers</category>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Healthcare Services Report | Q3 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Industrial Development Report | October 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
