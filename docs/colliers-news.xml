@@ -7,21 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:19:29 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] ICP at 97th</title>
-      <link>https://www.northmarq.com/transactions/icp-97th-debt-permanent-loan-fixed-2026-05</link>
-      <description>Debt, Permanent Loan - Fixed — Doral, FL — $3,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/icp-97th-debt-permanent-loan-fixed-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Olia Village</title>
@@ -648,12 +640,12 @@
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] World Cup Impact Report | August 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usret-world-cup-impact-report-august-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usret-world-cup-impact-report-august-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-world-cup-impact-report-august-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Whitestone Shopping Center</title>
+      <link>https://www.northmarq.com/transactions/whitestone-shopping-center-debt-bridge-loan-debt-equity-2026-08</link>
+      <description>Debt, Bridge Loan, Debt &amp; Equity — Whitestone, NY — $75,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/whitestone-shopping-center-debt-bridge-loan-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Single-Tenant Net Lease Retail: First-Half 2026 Market Review</title>
@@ -708,6 +700,14 @@
       <link>https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</link>
       <description>https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</description>
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-industrial-development-pipeline-q3-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Leading Markets Office Construction | Q3 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usofc-us-leading-office-markets-q3-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usofc-us-leading-office-markets-q3-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-leading-office-markets-q3-2026</guid>
       <category>Colliers</category>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
     </item>
