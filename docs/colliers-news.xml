@@ -7,29 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:37:09 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
       <description>Debt &amp; Equity — Santa Barbara, CA — $7,606,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Olia Village</title>
-      <link>https://www.northmarq.com/transactions/olia-village-debt-bridge-loan-construction-loan-debt-equity-2026-05</link>
-      <description>Debt, Bridge Loan, Construction Loan, Debt &amp; Equity — Creve Coeur, MO — $57,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/olia-village-debt-bridge-loan-construction-loan-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] 405 Alberto Way</title>
-      <link>https://www.northmarq.com/transactions/405-alberto-acquisition-debt-equity-2026-05</link>
-      <description>Debt &amp; Equity — Los Gatos, CA — $11,250,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/405-alberto-acquisition-debt-equity-2026-05</guid>
-      <category>Northmarq</category>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Philadelphia Multifamily Properties</title>
@@ -644,6 +628,22 @@
       <link>https://www.northmarq.com/transactions/whitestone-shopping-center-debt-bridge-loan-debt-equity-2026-08</link>
       <description>Debt, Bridge Loan, Debt &amp; Equity — Whitestone, NY — $75,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/whitestone-shopping-center-debt-bridge-loan-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Stockbridge 17</title>
+      <link>https://www.northmarq.com/transactions/stockbridge-17-debt-construction-loan-debt-equity-2026-08</link>
+      <description>Debt, Construction Loan, Debt &amp; Equity — Elizabeth City, NC — $31,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/stockbridge-17-debt-construction-loan-debt-equity-2026-08</guid>
+      <category>Northmarq</category>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Springnex Plaza</title>
+      <link>https://www.northmarq.com/transactions/springnex-plaza-debt-equity-2026-08</link>
+      <description>Debt &amp; Equity — Springfield Gardens, NY — $32,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/springnex-plaza-debt-equity-2026-08</guid>
       <category>Northmarq</category>
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
