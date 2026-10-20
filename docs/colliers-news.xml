@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:20:51 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,22 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Cosgrove</title>
-      <link>https://www.northmarq.com/transactions/cosgrove-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Omaha, NE — $21,600,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/cosgrove-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Riverwood Apts</title>
-      <link>https://www.northmarq.com/transactions/riverwood-apts-sale-2026-06</link>
-      <description>Sale — Lansing, IL — $28,600,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/riverwood-apts-sale-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Henderson Pointe</title>
@@ -647,12 +631,20 @@
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Healthcare Services Report | Q3 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] Club West Plaza</title>
+      <link>https://www.northmarq.com/transactions/club-west-plaza-debt-permanent-loan-fixed-debt-equity-2026-09</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Blaine, MN — $9,600,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/club-west-plaza-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Ukiah Portfolio</title>
+      <link>https://www.northmarq.com/transactions/ukiah-portfolio-sale-2026-09</link>
+      <description>Sale — Ukiah, CA — $23,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/ukiah-portfolio-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] Industrial Development Report | October 2026</title>
@@ -701,6 +693,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-q3-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] The Colliers AI Hype-to-Horizon Framework</title>
+      <link>https://www.colliers.com/en/research/colliers-ai-hype-to-horizon-framework</link>
+      <description>https://www.colliers.com/en/research/colliers-ai-hype-to-horizon-framework</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/colliers-ai-hype-to-horizon-framework</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | September 2026</title>
