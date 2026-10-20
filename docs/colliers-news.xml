@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:05:14 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -647,14 +647,6 @@
       <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | August 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-august-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-august-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-august-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[Colliers] Healthcare Services Report | Q3 2026</title>
       <link>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</link>
       <description>https://www.colliers.com/en/research/nrep-ushc-us-healthcare-services-research-report-q3-2026</description>
@@ -709,6 +701,14 @@
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-q3-2026</guid>
       <category>Colliers</category>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] U.S. Retail Monthly Foot Traffic &amp; Sales Analysis | September 2026</title>
+      <link>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-september-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-september-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usret-us-retailer-foot-traffic-september-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
