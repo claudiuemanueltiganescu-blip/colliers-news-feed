@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:20:06 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,22 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] North Village I &amp; II</title>
-      <link>https://www.northmarq.com/transactions/north-village-i-ii-debt-equity-2026-06</link>
-      <description>Debt &amp; Equity — Little Ferry, NJ — $40,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/north-village-i-ii-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Essex St Melrose</title>
-      <link>https://www.northmarq.com/transactions/essex-st-melrose-debt-construction-loan-debt-equity-equity-preferred-equity-2026-06</link>
-      <description>Debt, Construction Loan, Debt &amp; Equity, Equity, Preferred Equity — Melrose, MA — $24,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/essex-st-melrose-debt-construction-loan-debt-equity-equity-preferred-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Shallow Bay Portfolio</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/3101-aaron-truehart-way-debt-permanent-loan-fixed-debt-equity-2026-09</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Hopewell, NJ — $5,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/3101-aaron-truehart-way-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Westmore Apts/Whispering Trails</title>
+      <link>https://www.northmarq.com/transactions/westmore-apts-whispering-trails-sale-2026-09</link>
+      <description>Sale — Chicago, IL — $67,250,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/westmore-apts-whispering-trails-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] The District Lofts</title>
+      <link>https://www.northmarq.com/transactions/district-lofts-debt-equity-equity-2026-09</link>
+      <description>Debt &amp; Equity, Equity — Jackson, MS — Undisclosed</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/district-lofts-debt-equity-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
