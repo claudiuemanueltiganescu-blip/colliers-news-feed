@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:52:36 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] King Arthur &amp; Mountain Meadows</title>
-      <link>https://www.northmarq.com/transactions/king-arthur-mountain-meadows-debt-bridge-loan-debt-equity-2026-06</link>
-      <description>Debt, Bridge Loan, Debt &amp; Equity — Bozeman, MT — $50,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/king-arthur-mountain-meadows-debt-bridge-loan-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Evolve Homestead</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/austin-industrial-building-debt-permanent-loan-fixed-debt-equity-2026-09</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Austin, TX — $3,400,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/austin-industrial-building-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 56-75 49th St.</title>
+      <link>https://www.northmarq.com/transactions/56-75-49th-st-debt-permanent-loan-fixed-debt-equity-2026-09</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Maspeth, NY — $7,000,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/56-75-49th-st-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
