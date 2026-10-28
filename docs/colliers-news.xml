@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:01:05 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Tides on McDowell</title>
-      <link>https://www.northmarq.com/transactions/tides-mcdowell-sale-2026-06</link>
-      <description>Sale — Phoenix, AZ — $41,000,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/tides-mcdowell-sale-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Turnpike Shopping Center</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/chapman-market-sale-2026-09</link>
       <description>Debt, Debt &amp; Equity — Los Angeles, CA — $29,300,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/chapman-market-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Arcadia-Area Condominium</title>
+      <link>https://www.northmarq.com/transactions/arcadia-area-condominium-debt-construction-loan-debt-equity-2026-09</link>
+      <description>Debt, Construction Loan, Debt &amp; Equity — Arcadia, CA — $14,800,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/arcadia-area-condominium-debt-construction-loan-debt-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
