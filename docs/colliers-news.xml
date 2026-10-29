@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:16:52 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Turnpike Shopping Center</title>
-      <link>https://www.northmarq.com/transactions/turnpike-shopping-center-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Fairfield, CT — $10,500,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/turnpike-shopping-center-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Mossy Oaks</title>
@@ -647,23 +639,15 @@
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Colliers named one of Forbes’ World’s Best Employers 2026</title>
-      <link>https://www.colliers.com/en/news/colliers-named-one-of-forbes-worlds-best-employers-2026</link>
-      <description>https://www.colliers.com/en/news/colliers-named-one-of-forbes-worlds-best-employers-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-named-one-of-forbes-worlds-best-employers-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <title>[Northmarq] J.O. Borgen Plaza</title>
+      <link>https://www.northmarq.com/transactions/jo-borgen-plaza-sale-2026-09</link>
+      <description>Sale — North Bend, WA — $8,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/jo-borgen-plaza-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Industrial Market Statistics | Q3 2026</title>
-      <link>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-statistics-q3-2026</link>
-      <description>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-statistics-q3-2026</description>
-      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-us-industrial-market-statistics-q3-2026</guid>
-      <category>Colliers</category>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Colliers] Office Vacancy Declines as Demand Strengthens</title>
+      <title>[Colliers] U.S. Office Market Statistics | Q3 2026</title>
       <link>https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-q3-2026</link>
       <description>https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-q3-2026</description>
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-office-market-statistics-q3-2026</guid>
@@ -695,7 +679,7 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] Big Box Demand Accelerates as Vacancy Tightens</title>
+      <title>[Colliers] North American Big Box Report | 1H 2026 Outlook</title>
       <link>https://www.colliers.com/en/research/nrep-usind-north-america-big-box-market-outlook-1h-2026</link>
       <description>https://www.colliers.com/en/research/nrep-usind-north-america-big-box-market-outlook-1h-2026</description>
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-north-america-big-box-market-outlook-1h-2026</guid>
@@ -703,12 +687,28 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>[Colliers] U.S. Industrial Outlook Market Report | Q3 2026</title>
+      <title>[Colliers] Industrial Market Gains Momentum as Demand Accelerates</title>
       <link>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q3-2026</link>
       <description>https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q3-2026</description>
       <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usind-us-industrial-market-outlook-q3-2026</guid>
       <category>Colliers</category>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Colliers | U.S. names new Brokerage Market Leader for Kansas City, MO</title>
+      <link>https://www.colliers.com/en/news/colliers-names-new-brokerage-market-leader-for-kansas-city</link>
+      <description>https://www.colliers.com/en/news/colliers-names-new-brokerage-market-leader-for-kansas-city</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/news/colliers-names-new-brokerage-market-leader-for-kansas-city</guid>
+      <category>Colliers</category>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Colliers] Select Markets Drive U.S. Office Market Recovery</title>
+      <link>https://www.colliers.com/en/research/nrep-usofc-us-office-market-outlook-report-q3-2026</link>
+      <description>https://www.colliers.com/en/research/nrep-usofc-us-office-market-outlook-report-q3-2026</description>
+      <guid isPermaLink="false">https://www.colliers.com/en/research/nrep-usofc-us-office-market-outlook-report-q3-2026</guid>
+      <category>Colliers</category>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
