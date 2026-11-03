@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:58:57 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] SoCal Self-Storage Portfolio</title>
-      <link>https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Victorville &amp; San Jacinto, CA — $3,105,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/socal-self-storage-portfolio-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Station Lofts</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/sunsweet-apartments-sale-2026-09</link>
       <description>Sale — Morgan Hill, CA — $45,000,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/sunsweet-apartments-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Newark Mixed-Use Building</title>
+      <link>https://www.northmarq.com/transactions/newark-mixed-use-building-debt-permanent-loan-fixed-debt-equity-2026-09</link>
+      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Newark, NJ — $1,200,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/newark-mixed-use-building-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
