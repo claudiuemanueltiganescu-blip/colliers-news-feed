@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 02:55:00 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] 3717 Cardiff Avenue</title>
-      <link>https://www.northmarq.com/transactions/3717-cardiff-avenue-sale-2026-06</link>
-      <description>Sale — Los Angeles, CA — $13,125,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/3717-cardiff-avenue-sale-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Arbor Preserve Development Tract</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/caliber-collision-debt-permanent-loan-fixed-debt-equity-2026-09</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Colleyville, TX — $4,200,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/caliber-collision-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] At Home Portfolio Tranche I</title>
+      <link>https://www.northmarq.com/transactions/home-portfolio-tranche-i-sale-2026-09</link>
+      <description>Sale — Chicago, IL — $31,850,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/home-portfolio-tranche-i-sale-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
