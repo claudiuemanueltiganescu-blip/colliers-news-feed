@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:27:03 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Station Lofts</title>
-      <link>https://www.northmarq.com/transactions/station-lofts-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Leavenworth, KS — $14,300,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/station-lofts-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Vinewood Townhomes</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/newark-mixed-use-building-debt-permanent-loan-fixed-debt-equity-2026-09</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Newark, NJ — $1,200,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/newark-mixed-use-building-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 340 East 86th Street</title>
+      <link>https://www.northmarq.com/transactions/340-east-86th-street-debt-permanent-loan-fixed-2026-09</link>
+      <description>Debt, Permanent Loan - Fixed — New York, NY — $2,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/340-east-86th-street-debt-permanent-loan-fixed-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
