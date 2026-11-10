@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 02:07:32 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,22 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] The Cannon</title>
-      <link>https://www.northmarq.com/transactions/cannon-debt-permanent-loan-floating-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Floating, Debt &amp; Equity — Houston, TX — Undisclosed</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/cannon-debt-permanent-loan-floating-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Northmarq] Premier Tech Center</title>
-      <link>https://www.northmarq.com/transactions/premier-tech-center-debt-permanent-loan-fixed-debt-equity-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Richmond, VA — $6,900,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/premier-tech-center-debt-permanent-loan-fixed-debt-equity-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Grove Street Apartments</title>
@@ -643,6 +627,22 @@
       <link>https://www.northmarq.com/transactions/bronx-apartment-building-debt-permanent-loan-fixed-debt-equity-2026-09</link>
       <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Bronx, NY — $2,300,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/bronx-apartment-building-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] 1550 W. Swift Ave.</title>
+      <link>https://www.northmarq.com/transactions/1550-w-swift-ave-sale-2026-09</link>
+      <description>Sale — Fresno, CA — $2,230,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/1550-w-swift-ave-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Kalakaua Gardens</title>
+      <link>https://www.northmarq.com/transactions/kalakaua-gardens-debt-debt-equity-2026-09</link>
+      <description>Debt, Debt &amp; Equity — Honolulu, HI — $51,140,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/kalakaua-gardens-debt-debt-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
