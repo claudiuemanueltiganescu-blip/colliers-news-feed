@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:53:16 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Dossey Oaks and Meadowood II</title>
-      <link>https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</link>
-      <description>Debt, Permanent Loan - Fixed — Lakeland, FL — $8,800,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/dossey-oaks-and-meadowood-ii-debt-permanent-loan-fixed-2026-06</guid>
-      <category>Northmarq</category>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Strathmore Commons Shopping Mall</title>
@@ -645,6 +637,14 @@
       <guid isPermaLink="false">https://www.northmarq.com/transactions/short-pump-village-shopping-center-debt-permanent-loan-fixed-debt-equity-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] CVS Pharmacy - Tampa, FL</title>
+      <link>https://www.northmarq.com/transactions/cvs-pharmacy-tampa-fl-sale-2026-10</link>
+      <description>Sale — Tampa, FL — $6,900,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/cvs-pharmacy-tampa-fl-sale-2026-10</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
