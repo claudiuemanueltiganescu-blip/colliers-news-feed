@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:19:23 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Shoppes at the Meadows</title>
-      <link>https://www.northmarq.com/transactions/shoppes-meadows-debt-permanent-loan-fixed-debt-equity-2026-07</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — Lone Tree, CO — $21,100,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/shoppes-meadows-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] The Pike</title>
@@ -643,6 +635,14 @@
       <link>https://www.northmarq.com/transactions/cvs-pharmacy-tampa-fl-sale-2026-10</link>
       <description>Sale — Tampa, FL — $6,900,000</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/cvs-pharmacy-tampa-fl-sale-2026-10</guid>
+      <category>Northmarq</category>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Chambers Reserve</title>
+      <link>https://www.northmarq.com/transactions/chambers-reserve-debt-permanent-loan-fixed-2026-10</link>
+      <description>Debt, Permanent Loan - Fixed — Lacey, WA — $25,500,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/chambers-reserve-debt-permanent-loan-fixed-2026-10</guid>
       <category>Northmarq</category>
       <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
     </item>
