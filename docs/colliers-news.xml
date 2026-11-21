@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:34:58 +0000</lastBuildDate>
     <item>
       <title>[Northmarq] 111 N La Cumbre Apartments</title>
       <link>https://www.northmarq.com/transactions/111-n-la-cumbre-apartments</link>
@@ -21,14 +21,6 @@
       <description>Sale — Wichita, KS — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/union-mill-sale-2026-08-1</guid>
       <category>Northmarq</category>
-    </item>
-    <item>
-      <title>[Northmarq] Talas Apts</title>
-      <link>https://www.northmarq.com/transactions/talas-apts-debt-permanent-loan-fixed-debt-equity-2026-07</link>
-      <description>Debt, Permanent Loan - Fixed, Debt &amp; Equity — National City, CA — $13,275,000</description>
-      <guid isPermaLink="false">https://www.northmarq.com/transactions/talas-apts-debt-permanent-loan-fixed-debt-equity-2026-07</guid>
-      <category>Northmarq</category>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>[Northmarq] Bonanza Square Shopping Center</title>
@@ -611,6 +603,14 @@
       <link>https://www.northmarq.com/transactions/whisper-hollow-apts-sale-2026-09</link>
       <description>Sale — Maryland Heights, MO — Undisclosed</description>
       <guid isPermaLink="false">https://www.northmarq.com/transactions/whisper-hollow-apts-sale-2026-09</guid>
+      <category>Northmarq</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Northmarq] Glisan Street Station</title>
+      <link>https://www.northmarq.com/transactions/glisan-street-station-debt-permanent-loan-fixed-2026-09</link>
+      <description>Debt, Permanent Loan - Fixed — Portland, OR — $5,100,000</description>
+      <guid isPermaLink="false">https://www.northmarq.com/transactions/glisan-street-station-debt-permanent-loan-fixed-2026-09</guid>
       <category>Northmarq</category>
       <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
     </item>
